@@ -6,86 +6,119 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="CSS\main.css">
 	<!--link rel="stylesheet" type="text/css" href="css/normalize.css" />
-	<link rel="stylesheet" type="text/css" href="css/icons.css" /-->
+	<link rel="stylesheet" type="text/css" href="css/icons.css" />
 	<link rel="stylesheet" type="text/css" href="css/component.css" />
-	<!--script src="javascript/modernizr.custom.js"></script-->
+	<script src="javascript/modernizr.custom.js"></script-->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 </head>
 
 
 <body>
-	
-	<header>
-		<nav>
-			<ul class="topnav" id="myTopnav">
-			    <li><a href="index.html">Home</a></li>
-			    <li><a href="#Programs">Programs</a></li>
-			    <li><a href="activities.html">Activities</a></li>
-			    <li><a class="active" href="#about.html">About</a></li>
-			    <li class="icon"><a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a></li>
-			</ul>
+		<div id="st-container" class="st-container">
+			<!-- 	
+				example menus 
+				these menus will be on top of the push wrapper
+			-->
+			
+			
+			<nav class="st-menu st-effect-1" id="menu-1" style="padding-right: 5px;">
+				<h2 class="st-bar" style="color: #fff;">Downloads</h2>
+				<ul class="download">
+					<li  ><a href="resume.doc" download>Resume as Word Document</a></li><br>
+					<li  ><a href="resume.pdf" download>Resume as PDF</a></li><br>
+					<li  ><a href="ActivitiesSummary.exl" download>Activities Summary in Exel</a></li>
+				</ul>
+			</nav>
+			
+			
 
-			<script>
-				function myFunction() {
-				    var x = document.getElementById("myTopnav");
-				    if (x.className === "topnav") {
-				        x.className += " responsive";
-				    } else {
-				        x.className = "topnav";
-				    }
-				}
-			</script>
-		</nav>
-	</header>
+			<!-- content push wrapper -->
+			<div class="st-pusher">
+				<!-- 	
+					example menus 
+					these menus will be under the push wrapper
+				-->
+				
 
-	<div style="width: 29.5%; max-width: 300px; height: auto; position: fixed; float: left; border-radius: 5px; margin-left: 10px; background-color: #333; z-index: 0; padding: 10px; color: #fff;">
-		<h3>Downloads that could be useful</h3><br>
-		<ul class="download" style="text-align: left;">
-			<li style="margin: 6%;" ><a href="resume.doc" download>Resume as Word Document</a></li><br>
-			<li style="margin: 6%;" ><a href="resume.pdf" download>Resume as PDF</a></li><br>
-			<li style="margin: 6%;" ><a href="ActivitiesSummary.exl" download>Activities Summary in Exel</a></li>
-		</ul>
-	</div>
-	<div>
-		<h1>About me</h1>
-		<div id="about">
-			<h3>Text 1</h3>
-			<p>Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing</p>
-		</div>
-		<div id="about">
-			<h3>Text 2</h3>
-			<p>Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing</p>
-		</div>
-		<div id="about">
-			<h3>Text 3</h3>
-			<p>Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing </p>
-		</div>
-	</div>
-	
+				<div class="st-content"><!-- this is the wrapper for the content -->
+					<div class="st-content-inner"><!-- extra div for emulating position:fixed of the menu -->
+						<!-- Top Navigation -->
+						<div class="main clearfix">
+							<div id="st-trigger-effects">
+								
+								<button data-effect="st-effect-1">Scale down pusher</button>
 
-	
-	<footer>
-		<section>
-			<h3><b>Contact me</b></h3>
-			<p>
-			<b>786-290-7293</b><br>
-			<b>leonar98@knights.ucf.edu</b><br>
-			</p>
-		</section>
-		<section>
-			<h3><b>Extenal Links</b></h3>
-			<ul class="social">
-				<li><a href="https://www.linkedin.com/in/leonardo-rodriguez-17930912b"><img src="images\linkedinIcon.png"></a></li>
-				<li><a href="https://github.com/mangose10"><img src="images\githubIcon.png"></a></li>
-			</ul>
-		</section>
-	</footer>
+							</div>
+							<header>
+								<nav>
+									<ul class="topnav" id="myTopnav">
+									    <li><a href="index.html">Home</a></li>
+									    <li><a href="#Programs">Programs</a></li>
+									    <li><a href="activities.html">Activities</a></li>
+									    <li><a class="active" href="#about.html">About</a></li>
+									    <li class="icon"><a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a></li>
+									</ul>
 
-	<footer class="second">
-		<p>Leonardo Rodriguez, Last updated 11/7/2016.</p>
-	</footer>
+									<script>
+										function myFunction() {
+										    var x = document.getElementById("myTopnav");
+										    if (x.className === "topnav") {
+										        x.className += " responsive";
+										    } else {
+										        x.className = "topnav";
+										    }
+										}
+									</script>
+								</nav>
+							</header>
 
-</body>
+							<div>
+								<h1>About me</h1>
+								<div id="about">
+									<h3>Text 1</h3>
+									<p>Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing</p>
+								</div>
+								<div id="about">
+									<h3>Text 2</h3>
+									<p>Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing</p>
+								</div>
+								<div id="about">
+									<h3>Text 3</h3>
+									<p>Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing </p>
+								</div>
+							</div>
+							
+
+							
+							<footer>
+								<section>
+									<h3><b>Contact me</b></h3>
+									<p>
+									<b>786-290-7293</b><br>
+									<b>leonar98@knights.ucf.edu</b><br>
+									</p>
+								</section>
+								<section>
+									<h3><b>Extenal Links</b></h3>
+									<ul class="social">
+										<li><a href="https://www.linkedin.com/in/leonardo-rodriguez-17930912b"><img src="images\linkedinIcon.png"></a></li>
+										<li><a href="https://github.com/mangose10"><img src="images\githubIcon.png"></a></li>
+									</ul>
+								</section>
+							</footer>
+
+							<footer class="second">
+								<p>Leonardo Rodriguez, Last updated 11/7/2016.</p>
+							</footer>
+							
+						</div><!-- /main -->
+					</div><!-- /st-content-inner -->
+				</div><!-- /st-content -->
+			</div><!-- /st-pusher -->
+		</div><!-- /st-container -->
+		<script src="javascript/classie.js"></script>
+		<script src="javascript/sidebarEffects.js"></script>
+	</body>
 
 
 </html>
