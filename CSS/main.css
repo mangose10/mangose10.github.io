@@ -702,6 +702,8 @@ Transform and style the two planes
 }
 
 .movie .info {
+  background-color: #333;
+  color: #fff;
   -webkit-transform: rotateY(90deg) translateZ(130px);
   -moz-transform: rotateY(90deg) translateZ(130px);
   transform: rotateY(90deg) translateZ(130px);
@@ -803,7 +805,7 @@ Posters and still images
 **************************************/
 
 .scene:nth-child(1) .movie .poster {
-  background-image: url(../images/HackTheVoteSnip.PNG);
+  background-image: url(../images/HackTheVotePoster.PNG);
 }
 
 /*.scene:nth-child(2) .poster {
@@ -813,7 +815,7 @@ Posters and still images
 
 
 .scene:nth-child(1) .info header {
-  background-image: url(../img/still01.jpg);
+  background-image: url(../images/HackTheVoteSnip.PNG);
 }
 /*
 .scene:nth-child(2) .info header {
