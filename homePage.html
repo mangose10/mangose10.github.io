@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang = en>
+<head>
+	<meta charset="utf-8">
+	<title>Leo's Activities</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="responsiveslides.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="responsiveslides.js"></script>
+	<script>
+	  $(function() {
+	    $("#slider1").responsiveSlides({
+        pager: true,
+        speed: 500,
+        maxwidth: 800,
+        namespace: "centered-btns"
+      });
+	  });
+	</script>
+</head>
+
+<body>
+	<header>
+		<nav>
+			<ul class="topnav" id="myTopnav">
+			    <li><a class="active" href="homePage.html">Home</a></li>
+			    <li><a href="#Programs">Programs</a></li>
+			    <li><a href="activities.html">Activities</a></li>
+			    <li><a href="about.html">About</a></li>
+			    <li class="icon"><a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a></li>
+			</ul>
+
+			<script>
+				function myFunction() {
+				    var x = document.getElementById("myTopnav");
+				    if (x.className === "topnav") {
+				        x.className += " responsive";
+				    } else {
+				        x.className = "topnav";
+				    }
+				}
+			</script>
+		</nav>
+	</header>
+	
+	<h1 style="font-size: 60px; padding-top: 0;">Recent Activity</h1>
+	
+	<div class="rslides_container">
+		
+		<ul class="rslides" id="slider1" style="margin: 0 auto;">
+		    <li>
+		  		<img src="HackTheVoteSnip.png" alt="">
+		  		<p class="caption" class="cap-bot">Club activity for CCDC. This was a jeopardy style CTF and we achieved 32nd of 1050 competitors!</p>
+		  	</li>
+		  	<li>
+		  		<img src="HackathonSignup.png" alt="">
+		  		<p class="caption">Signed up for a few Hack-a-thons, I was so exited I put countdowns on the activities section of the site. Be sure to check them out!</p>
+		  	</li>
+		 	<li>
+		 		<img src="GitHubUsage.png" alt="">
+		 		<p class="caption">I finally started using gitHub. Use the link in the footer to reach my profile.</p>
+		 	</li>
+		</ul>
+	</div>
+
+	<div class="clear"></div>>
+
+	<footer>
+		<section>
+			<h3><b>Contact me</b></h3>
+			<p>
+			<b>786-290-7293</b><br>
+			<b>leonar98@knights.ucf.edu</b><br>
+			</p>
+		</section>
+		<section>
+			<h3><b>Extenal Links</b></h3>
+			<ul class="social">
+				<li><a href="https://www.linkedin.com/in/leonardo-rodriguez-17930912b"><img src="linkedinIcon.png"></a></li>
+				<li><a href="https://github.com/mangose10"><img src="githubIcon.png"></a></li>
+			</ul>
+		</section>
+	</footer>
+
+	<footer class="second">
+		<p>Leonardo Rodriguez, Last updated 11/7/2016.</p>
+	</footer>
+</body>
+
+</html>

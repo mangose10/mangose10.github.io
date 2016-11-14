@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang = en>
+<head>
+	<meta charset="utf-8">
+	<title>Leo's Activities</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="main.css">
+	<script src="countdown.js"></script>
+	<style type="text/css"></style>
+</head>
+
+<body>
+	<header>
+		<nav>
+			<ul class="topnav" id="myTopnav">
+			  <li><a href="homePage.html">Home</a></li>
+			  <li><a href="#programs">Programs</a></li>
+			  <li><a class="active" href="activities.html">Activities</a></li>
+			  <li><a href="about.html">About</a></li>
+			  <li class="icon"><a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a></li>
+			</ul>
+
+			<script>
+			function myFunction() {
+			    var x = document.getElementById("myTopnav");
+			    if (x.className === "topnav") {
+			        x.className += " responsive";
+			    } else {
+			        x.className = "topnav";
+			    }
+			}
+			</script>
+		</nav>
+	</header>
+
+	<div id="del-countdown">
+      <h1 style="font-size: 82px;">Hack-a-thons</h1>
+      <section class="clock">
+      	<h2>KnightHacks</h2>
+      	<img src="KnightHacksLogo.png" style="width:100%; margin-top: 26px; margin-bottom: 27px;">
+        <div id="clock"></div>
+	    <div id="units">
+	        <span>Days</span>
+	        <span>Hours</span>
+	        <span>Mins</span>
+	        <span>Secs</span>
+	    </div>
+	  </section>
+
+
+      <section class="clock">
+      	<h2>SwampHacks</h2>
+      	<img src="SwampHacksLogo.png" style="width: 100%;">
+        <div id="clock1"></div>
+	    <div id="units">
+	        <span>Days</span>
+	        <span>Hours</span>
+	        <span>Mins</span>
+	        <span>Secs</span>
+	    </div>
+	  </section>
+
+
+	  <section class="clock">
+      	<h2>MinneHacks</h2>
+      	<img src="MinneHacksLogo.png" style="width: 50%;">
+        <div id="clock2"></div>
+	    <div id="units">
+	        <span>Days</span>
+	        <span>Hours</span>
+	        <span>Mins</span>
+	        <span>Secs</span>
+	    </div>
+	  </section>
+
+
+	  <section class="clock">
+      	<h2>TreeHacks</h2>
+      	<img src="TreeHacksLogo.png" style="width:69.5%;">
+        <div id="clock3"></div>
+	    <div id="units">
+	        <span>Days</span>
+	        <span>Hours</span>
+	        <span>Mins</span>
+	        <span>Secs</span>
+	    </div>
+	  </section>
+    </div>
+
+    <script>
+	   	startTimer("January 15, 2017 00:00:00", "clock");
+	   	startTimer("January 20, 2017 00:00:00", "clock1");
+	   	startTimer("January 28, 2017 00:00:00", "clock2");
+	   	startTimer("February 17, 2017 00:00:00", "clock3");
+	 </script>
+
+    <div class="clear"></div>
+
+    <div style="margin: 0 10%;">
+		<h1 style="font-size: 82px;">Collegiate Cyber Defense Club</h1>
+		<section style="height:auto;" class="boxed">
+			<h2>Hack the Vote</h2>
+			<div>
+				<img class="pop" src="HackTheVoteSnip.png" style="width: 50%; float: left;">
+				<title style="color: #bbffff;">(Click to enlarge)</title>
+			</div>
+			<div>
+				<p>Hack the vote was a CTF(Capture The Flag) competition, an offense based competition. The team that I participated in, knightsec, placed 39th of 959</p>
+			</div>
+		</section>
+	</div>
+
+	<footer>
+		<section>
+			<h3><b>Contact me</b></h3>
+			<p>
+			<b>786-290-7293</b><br>
+			<b>leonar98@knights.ucf.edu</b><br>
+			</p>
+		</section>
+		<section>
+			<h3><b>External Links</b></h3>
+			<ul class="social">
+				<li><a href="https://www.linkedin.com/in/leonardo-rodriguez-17930912b"><img src="linkedinIcon.png"></a></li>
+				<li><a href="https://github.com/mangose10"><img src="githubIcon.png"></a></li>
+			</ul>
+		</section>
+	</footer>
+
+	<footer class="second">
+		<p>Leonardo Rodriguez, Last updated 11/7/2016.</p>
+	</footer>
+</body>
+
+</html>
