@@ -90,7 +90,8 @@ footer.second{
 div #about{
   width: 29%;
   float: right;
-  margin: 2% 3%;
+  margin: 2% 2%;
+  padding: 0 2%;
   text-align: center;
   border: solid;
   border-radius: 10px;
