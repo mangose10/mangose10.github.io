@@ -805,7 +805,7 @@ Posters and still images
 **************************************/
 
 .scene:nth-child(1) .movie .poster {
-  background-image: url(../images/HackTheVotePoster.PNG);
+  background-image: url(../images/HackTheVotePoster.png);
 }
 
 /*.scene:nth-child(2) .poster {
