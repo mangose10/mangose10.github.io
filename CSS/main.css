@@ -83,11 +83,7 @@ ul.social li img{
 div.inPageHop{
   background-color: #333;
   color: #fff;
-}
-div.inPageHop ul{
   width: 850px;
-  margin: 0 auto;
-  list-style-type: none;
 }
 footer.second{
 	border-top: 1px solid #4d4e50;
@@ -844,7 +840,7 @@ Posters and still images
 }
 
 .scene:nth-child(1) .infomhk  header {
-  background-image: url(../images/microsofthackknightshirt.jpg);
+  background-image: url(../images/microsofthackknightshirt.JPG);
 }
 
 /*************************************
