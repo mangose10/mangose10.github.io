@@ -315,7 +315,7 @@ ul.rslides {
 /*------------------------CountDown Timers---------------------------*/
 /*By The Net  Ninja*/
 
-#del-countdown{
+#container{
   width: 850px;
   margin: 0 auto;
 }
@@ -684,6 +684,7 @@ Transform and style the two planes
 **************************************/
 
 .movie .poster, 
+.movie .postermhk, 
 .movie .info {
   position: absolute;
   width: 260px;
@@ -694,7 +695,8 @@ Transform and style the two planes
   backface-visibility: hidden;
 }
 
-.movie .poster  {
+.movie .poster, 
+.movie .postermhk {
   -webkit-transform: translateZ(130px);
   -moz-transform: translateZ(130px);
   transform: translateZ(130px);
@@ -776,6 +778,7 @@ Generate "lighting" using box shadows
 **************************************/
 
 .movie .poster,
+.movie .postermhk,
 .movie .info,
 .movie .info header {
   -webkit-transition: box-shadow 350ms;
@@ -783,11 +786,11 @@ Generate "lighting" using box shadows
   transition: box-shadow 350ms;
 }
 
-.csstransforms3d .movie .poster {
+.csstransforms3d .movie .poster,  .csstransforms3d .movie .postermhk{
   box-shadow: inset 0px 0px 40px rgba(255,255,255,0);
 }
 
-.csstransforms3d .movie:hover .poster {
+.csstransforms3d .movie:hover .poster, .csstransforms3d .movie:hover .postermhk {
   box-shadow: inset 300px 0px 40px rgba(255,255,255,0.8);
 }
 
@@ -809,19 +812,19 @@ Posters and still images
   background-image: url(../images/HackTheVotePoster.png);
 }
 
-/*.scene:nth-child(2) .poster {
-  background-image: url(../img/poster02.jpg);
-}*/
+.scene:nth-child(1) .postermhk {
+  background-image: url(../images/microsofthackknightPoster.png);
+}
 
 
 
 .scene:nth-child(1) .info header {
   background-image: url(../images/HackTheVoteSnip.PNG);
 }
-/*
-.scene:nth-child(2) .info header {
+
+.scene:nth-child(2) .info .mhk header {
   background-image: url(../img/still02.jpg);
-}*/
+}
 
 /*************************************
 Fallback
