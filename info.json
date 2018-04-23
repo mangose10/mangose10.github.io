@@ -1,5 +1,4 @@
-[
-	{
+[	{
 		"name" : "Bulbasaur",
 		"totalCount" : "1",
 		"dexCount" : "1",
@@ -27,7 +26,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Grass",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Ivysaur",
@@ -57,7 +56,7 @@
 		"prevol" : "Bulbasaur",
 		"egg1" : "Monster",
 		"typing" : "Grass",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Venusaur",
@@ -87,7 +86,7 @@
 		"prevol" : "Ivysaur",
 		"egg1" : "Monster",
 		"typing" : "Grass",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Venusaur (Mega Venusaur)",
@@ -117,7 +116,7 @@
 		"prevol" : "Ivysaur",
 		"egg1" : "Monster",
 		"typing" : "Grass",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Charmander",
@@ -147,7 +146,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Charmeleon",
@@ -177,7 +176,7 @@
 		"prevol" : "Charmander",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Charizard",
@@ -207,7 +206,7 @@
 		"prevol" : "Charmeleon",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Fire / Flying",
+		"abils" : "Fire / Flying"
 	},
 	{
 		"name" : "Charizard (Mega Charizard X)",
@@ -237,7 +236,7 @@
 		"prevol" : "Charmeleon",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Fire / Dragon",
+		"abils" : "Fire / Dragon"
 	},
 	{
 		"name" : "Charizard (Mega Charizard Y)",
@@ -267,7 +266,7 @@
 		"prevol" : "Charmeleon",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Fire / Flying",
+		"abils" : "Fire / Flying"
 	},
 	{
 		"name" : "Squirtle",
@@ -297,7 +296,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Wartortle",
@@ -327,7 +326,7 @@
 		"prevol" : "Squirtle",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Blastoise",
@@ -357,7 +356,7 @@
 		"prevol" : "Wartortle",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Blastoise (Mega Blastoise)",
@@ -387,7 +386,7 @@
 		"prevol" : "Wartortle",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Caterpie",
@@ -417,7 +416,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Metapod",
@@ -447,7 +446,7 @@
 		"prevol" : "Caterpie",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Butterfree",
@@ -477,7 +476,7 @@
 		"prevol" : "Metapod",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Flying",
+		"abils" : "Bug / Flying"
 	},
 	{
 		"name" : "Weedle",
@@ -507,7 +506,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Poison",
+		"abils" : "Bug / Poison"
 	},
 	{
 		"name" : "Kakuna",
@@ -537,7 +536,7 @@
 		"prevol" : "Weedle",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Poison",
+		"abils" : "Bug / Poison"
 	},
 	{
 		"name" : "Beedrill",
@@ -567,7 +566,7 @@
 		"prevol" : "Kakuna",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Poison",
+		"abils" : "Bug / Poison"
 	},
 	{
 		"name" : "Beedrill (Mega Beedrill)",
@@ -597,7 +596,7 @@
 		"prevol" : "Kakuna",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Poison",
+		"abils" : "Bug / Poison"
 	},
 	{
 		"name" : "Pidgey",
@@ -627,7 +626,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Pidgeotto",
@@ -657,7 +656,7 @@
 		"prevol" : "Pidgey",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Pidgeot",
@@ -687,7 +686,7 @@
 		"prevol" : "Pidgeotto",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Pidgeot (Mega Pidgeot)",
@@ -717,7 +716,7 @@
 		"prevol" : "Pidgeotto",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Rattata",
@@ -747,7 +746,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Rattata (Alola Form)",
@@ -777,7 +776,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark / Normal",
+		"abils" : "Dark / Normal"
 	},
 	{
 		"name" : "Raticate",
@@ -807,7 +806,7 @@
 		"prevol" : "Rattata",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Raticate (Alola Form)",
@@ -837,7 +836,7 @@
 		"prevol" : "Rattata (Alola Form)",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark / Normal",
+		"abils" : "Dark / Normal"
 	},
 	{
 		"name" : "Spearow",
@@ -867,7 +866,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Fearow",
@@ -897,7 +896,7 @@
 		"prevol" : "Spearow",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Ekans",
@@ -927,7 +926,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Dragon",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Arbok",
@@ -957,7 +956,7 @@
 		"prevol" : "Ekans",
 		"egg1" : "Field",
 		"typing" : "Dragon",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Pikachu",
@@ -987,7 +986,7 @@
 		"prevol" : "Pichu",
 		"egg1" : "Field",
 		"typing" : "Fairy",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Raichu",
@@ -1017,7 +1016,7 @@
 		"prevol" : "Pikachu",
 		"egg1" : "Field",
 		"typing" : "Fairy",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Raichu (Alola Form)",
@@ -1047,7 +1046,7 @@
 		"prevol" : "Pikachu",
 		"egg1" : "Field",
 		"typing" : "Fairy",
-		"abils" : "Electric / Psychic",
+		"abils" : "Electric / Psychic"
 	},
 	{
 		"name" : "Sandshrew",
@@ -1077,7 +1076,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Sandshrew (Alola Form)",
@@ -1107,7 +1106,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ice / Steel",
+		"abils" : "Ice / Steel"
 	},
 	{
 		"name" : "Sandslash",
@@ -1137,7 +1136,7 @@
 		"prevol" : "Sandshrew",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Sandslash (Alola Form)",
@@ -1167,7 +1166,7 @@
 		"prevol" : "Sandshrew (Alola Form)",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ice / Steel",
+		"abils" : "Ice / Steel"
 	},
 	{
 		"name" : "Nidoran?",
@@ -1197,7 +1196,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Field",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Nidorina",
@@ -1227,7 +1226,7 @@
 		"prevol" : "Nidoran?",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Nidoqueen",
@@ -1257,7 +1256,7 @@
 		"prevol" : "Nidorina",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Poison / Ground",
+		"abils" : "Poison / Ground"
 	},
 	{
 		"name" : "Nidoran?",
@@ -1287,7 +1286,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Field",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Nidorino",
@@ -1317,7 +1316,7 @@
 		"prevol" : "Nidoran?",
 		"egg1" : "Monster",
 		"typing" : "Field",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Nidoking",
@@ -1347,7 +1346,7 @@
 		"prevol" : "Nidorino",
 		"egg1" : "Monster",
 		"typing" : "Field",
-		"abils" : "Poison / Ground",
+		"abils" : "Poison / Ground"
 	},
 	{
 		"name" : "Clefairy",
@@ -1377,7 +1376,7 @@
 		"prevol" : "Cleffa",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Clefable",
@@ -1407,7 +1406,7 @@
 		"prevol" : "Clefairy",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Vulpix",
@@ -1437,7 +1436,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Vulpix (Alola Form)",
@@ -1467,7 +1466,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ice",
+		"abils" : "Ice"
 	},
 	{
 		"name" : "Ninetales",
@@ -1497,7 +1496,7 @@
 		"prevol" : "Vulpix",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Ninetales (Alola Form)",
@@ -1527,7 +1526,7 @@
 		"prevol" : "Vulpix (Alola Form)",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ice / Fairy",
+		"abils" : "Ice / Fairy"
 	},
 	{
 		"name" : "Jigglypuff",
@@ -1557,7 +1556,7 @@
 		"prevol" : "Igglybuff",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Normal / Fairy",
+		"abils" : "Normal / Fairy"
 	},
 	{
 		"name" : "Wigglytuff",
@@ -1587,7 +1586,7 @@
 		"prevol" : "Jigglypuff",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Normal / Fairy",
+		"abils" : "Normal / Fairy"
 	},
 	{
 		"name" : "Zubat",
@@ -1617,7 +1616,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Poison / Flying",
+		"abils" : "Poison / Flying"
 	},
 	{
 		"name" : "Golbat",
@@ -1647,7 +1646,7 @@
 		"prevol" : "Zubat",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Poison / Flying",
+		"abils" : "Poison / Flying"
 	},
 	{
 		"name" : "Oddish",
@@ -1677,7 +1676,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Gloom",
@@ -1707,7 +1706,7 @@
 		"prevol" : "Oddish",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Vileplume",
@@ -1737,7 +1736,7 @@
 		"prevol" : "Gloom",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Paras",
@@ -1767,7 +1766,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "Grass",
-		"abils" : "Bug / Grass",
+		"abils" : "Bug / Grass"
 	},
 	{
 		"name" : "Parasect",
@@ -1797,7 +1796,7 @@
 		"prevol" : "Paras",
 		"egg1" : "Bug",
 		"typing" : "Grass",
-		"abils" : "Bug / Grass",
+		"abils" : "Bug / Grass"
 	},
 	{
 		"name" : "Venonat",
@@ -1827,7 +1826,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Poison",
+		"abils" : "Bug / Poison"
 	},
 	{
 		"name" : "Venomoth",
@@ -1857,7 +1856,7 @@
 		"prevol" : "Venonat",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Poison",
+		"abils" : "Bug / Poison"
 	},
 	{
 		"name" : "Diglett",
@@ -1887,7 +1886,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Diglett (Alola Form)",
@@ -1917,7 +1916,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground / Steel",
+		"abils" : "Ground / Steel"
 	},
 	{
 		"name" : "Dugtrio",
@@ -1947,7 +1946,7 @@
 		"prevol" : "Diglett",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Dugtrio (Alola Form)",
@@ -1977,7 +1976,7 @@
 		"prevol" : "Diglett (Alola Form)",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground / Steel",
+		"abils" : "Ground / Steel"
 	},
 	{
 		"name" : "Meowth",
@@ -2007,7 +2006,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Meowth (Alola Form)",
@@ -2037,7 +2036,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark",
+		"abils" : "Dark"
 	},
 	{
 		"name" : "Persian",
@@ -2067,7 +2066,7 @@
 		"prevol" : "Meowth",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Persian (Alola Form)",
@@ -2097,7 +2096,7 @@
 		"prevol" : "Meowth (Alola Form)",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark",
+		"abils" : "Dark"
 	},
 	{
 		"name" : "Psyduck",
@@ -2127,7 +2126,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Golduck",
@@ -2157,7 +2156,7 @@
 		"prevol" : "Psyduck",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Mankey",
@@ -2187,7 +2186,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Primeape",
@@ -2217,7 +2216,7 @@
 		"prevol" : "Mankey",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Growlithe",
@@ -2247,7 +2246,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Arcanine",
@@ -2277,7 +2276,7 @@
 		"prevol" : "Growlithe",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Poliwag",
@@ -2307,7 +2306,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Poliwhirl",
@@ -2337,7 +2336,7 @@
 		"prevol" : "Poliwag",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Poliwrath",
@@ -2367,7 +2366,7 @@
 		"prevol" : "Poliwhirl",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water / Fighting",
+		"abils" : "Water / Fighting"
 	},
 	{
 		"name" : "Abra",
@@ -2397,7 +2396,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Kadabra",
@@ -2427,7 +2426,7 @@
 		"prevol" : "Abra",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Alakazam",
@@ -2457,7 +2456,7 @@
 		"prevol" : "Kadabra",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Alakazam (Mega Alakazam)",
@@ -2487,7 +2486,7 @@
 		"prevol" : "Kadabra",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Machop",
@@ -2517,7 +2516,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Machoke",
@@ -2547,7 +2546,7 @@
 		"prevol" : "Machop",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Machamp",
@@ -2577,7 +2576,7 @@
 		"prevol" : "Machoke",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Bellsprout",
@@ -2607,7 +2606,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Weepinbell",
@@ -2637,7 +2636,7 @@
 		"prevol" : "Bellsprout",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Victreebel",
@@ -2667,7 +2666,7 @@
 		"prevol" : "Weepinbell",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Tentacool",
@@ -2697,7 +2696,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Water / Poison",
+		"abils" : "Water / Poison"
 	},
 	{
 		"name" : "Tentacruel",
@@ -2727,7 +2726,7 @@
 		"prevol" : "Tentacool",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Water / Poison",
+		"abils" : "Water / Poison"
 	},
 	{
 		"name" : "Geodude",
@@ -2757,7 +2756,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock / Ground",
+		"abils" : "Rock / Ground"
 	},
 	{
 		"name" : "Geodude (Alola Form)",
@@ -2787,7 +2786,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock / Electric",
+		"abils" : "Rock / Electric"
 	},
 	{
 		"name" : "Graveler",
@@ -2817,7 +2816,7 @@
 		"prevol" : "Geodude",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock / Ground",
+		"abils" : "Rock / Ground"
 	},
 	{
 		"name" : "Graveler (Alola Form)",
@@ -2847,7 +2846,7 @@
 		"prevol" : "Geodude (Alola Form)",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock / Electric",
+		"abils" : "Rock / Electric"
 	},
 	{
 		"name" : "Golem",
@@ -2877,7 +2876,7 @@
 		"prevol" : "Graveler",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock / Ground",
+		"abils" : "Rock / Ground"
 	},
 	{
 		"name" : "Golem (Alola Form)",
@@ -2907,7 +2906,7 @@
 		"prevol" : "Graveler (Alola Form)",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock / Electric",
+		"abils" : "Rock / Electric"
 	},
 	{
 		"name" : "Ponyta",
@@ -2937,7 +2936,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Rapidash",
@@ -2967,7 +2966,7 @@
 		"prevol" : "Ponyta",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Slowpoke",
@@ -2997,7 +2996,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water / Psychic",
+		"abils" : "Water / Psychic"
 	},
 	{
 		"name" : "Slowbro",
@@ -3027,7 +3026,7 @@
 		"prevol" : "Slowpoke",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water / Psychic",
+		"abils" : "Water / Psychic"
 	},
 	{
 		"name" : "Slowbro (Mega Slowbro)",
@@ -3057,7 +3056,7 @@
 		"prevol" : "Slowpoke",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water / Psychic",
+		"abils" : "Water / Psychic"
 	},
 	{
 		"name" : "Magnemite",
@@ -3087,7 +3086,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Electric / Steel",
+		"abils" : "Electric / Steel"
 	},
 	{
 		"name" : "Magneton",
@@ -3117,7 +3116,7 @@
 		"prevol" : "Magnemite",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Electric / Steel",
+		"abils" : "Electric / Steel"
 	},
 	{
 		"name" : "Farfetch’d",
@@ -3147,7 +3146,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "Field",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Doduo",
@@ -3177,7 +3176,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Dodrio",
@@ -3207,7 +3206,7 @@
 		"prevol" : "Doduo",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Seel",
@@ -3237,7 +3236,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Dewgong",
@@ -3267,7 +3266,7 @@
 		"prevol" : "Seel",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Water / Ice",
+		"abils" : "Water / Ice"
 	},
 	{
 		"name" : "Grimer",
@@ -3297,7 +3296,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Grimer (Alola Form)",
@@ -3327,7 +3326,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Poison / Dark",
+		"abils" : "Poison / Dark"
 	},
 	{
 		"name" : "Muk",
@@ -3357,7 +3356,7 @@
 		"prevol" : "Grimer",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Muk (Alola Form)",
@@ -3387,7 +3386,7 @@
 		"prevol" : "Grimer (Alola Form)",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Poison / Dark",
+		"abils" : "Poison / Dark"
 	},
 	{
 		"name" : "Shellder",
@@ -3417,7 +3416,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Cloyster",
@@ -3447,7 +3446,7 @@
 		"prevol" : "Shellder",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Water / Ice",
+		"abils" : "Water / Ice"
 	},
 	{
 		"name" : "Gastly",
@@ -3477,7 +3476,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Poison",
+		"abils" : "Ghost / Poison"
 	},
 	{
 		"name" : "Haunter",
@@ -3507,7 +3506,7 @@
 		"prevol" : "Gastly",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Poison",
+		"abils" : "Ghost / Poison"
 	},
 	{
 		"name" : "Gengar",
@@ -3537,7 +3536,7 @@
 		"prevol" : "Haunter",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Poison",
+		"abils" : "Ghost / Poison"
 	},
 	{
 		"name" : "Gengar (Mega Gengar)",
@@ -3567,7 +3566,7 @@
 		"prevol" : "Haunter",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Poison",
+		"abils" : "Ghost / Poison"
 	},
 	{
 		"name" : "Onix",
@@ -3597,7 +3596,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock / Ground",
+		"abils" : "Rock / Ground"
 	},
 	{
 		"name" : "Drowzee",
@@ -3627,7 +3626,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Hypno",
@@ -3657,7 +3656,7 @@
 		"prevol" : "Drowzee",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Krabby",
@@ -3687,7 +3686,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Kingler",
@@ -3717,7 +3716,7 @@
 		"prevol" : "Krabby",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Voltorb",
@@ -3747,7 +3746,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Electrode",
@@ -3777,7 +3776,7 @@
 		"prevol" : "Voltorb",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Exeggcute",
@@ -3807,7 +3806,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass / Psychic",
+		"abils" : "Grass / Psychic"
 	},
 	{
 		"name" : "Exeggutor",
@@ -3837,7 +3836,7 @@
 		"prevol" : "Exeggcute",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass / Psychic",
+		"abils" : "Grass / Psychic"
 	},
 	{
 		"name" : "Exeggutor (Alola Form)",
@@ -3867,7 +3866,7 @@
 		"prevol" : "Exeggcute",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass / Dragon",
+		"abils" : "Grass / Dragon"
 	},
 	{
 		"name" : "Cubone",
@@ -3897,7 +3896,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Marowak",
@@ -3927,7 +3926,7 @@
 		"prevol" : "Cubone",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Marowak (Alola Form)",
@@ -3957,7 +3956,7 @@
 		"prevol" : "Cubone",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Fire / Ghost",
+		"abils" : "Fire / Ghost"
 	},
 	{
 		"name" : "Hitmonlee",
@@ -3987,7 +3986,7 @@
 		"prevol" : "Tyrogue",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Hitmonchan",
@@ -4017,7 +4016,7 @@
 		"prevol" : "Tyrogue",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Lickitung",
@@ -4047,7 +4046,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Koffing",
@@ -4077,7 +4076,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Weezing",
@@ -4107,7 +4106,7 @@
 		"prevol" : "Koffing",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Rhyhorn",
@@ -4137,7 +4136,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Field",
-		"abils" : "Ground / Rock",
+		"abils" : "Ground / Rock"
 	},
 	{
 		"name" : "Rhydon",
@@ -4167,7 +4166,7 @@
 		"prevol" : "Rhyhorn",
 		"egg1" : "Monster",
 		"typing" : "Field",
-		"abils" : "Ground / Rock",
+		"abils" : "Ground / Rock"
 	},
 	{
 		"name" : "Chansey",
@@ -4197,7 +4196,7 @@
 		"prevol" : "Happiny",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Tangela",
@@ -4227,7 +4226,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Kangaskhan",
@@ -4257,7 +4256,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Kangaskhan (Mega Kangaskhan)",
@@ -4287,7 +4286,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Horsea",
@@ -4317,7 +4316,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Dragon",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Seadra",
@@ -4347,7 +4346,7 @@
 		"prevol" : "Horsea",
 		"egg1" : "Water 1",
 		"typing" : "Dragon",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Goldeen",
@@ -4377,7 +4376,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Seaking",
@@ -4407,7 +4406,7 @@
 		"prevol" : "Goldeen",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Staryu",
@@ -4437,7 +4436,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Starmie",
@@ -4467,7 +4466,7 @@
 		"prevol" : "Staryu",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Water / Psychic",
+		"abils" : "Water / Psychic"
 	},
 	{
 		"name" : "Mr. Mime",
@@ -4497,7 +4496,7 @@
 		"prevol" : "Mime Jr.",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Fairy",
+		"abils" : "Psychic / Fairy"
 	},
 	{
 		"name" : "Scyther",
@@ -4527,7 +4526,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Flying",
+		"abils" : "Bug / Flying"
 	},
 	{
 		"name" : "Jynx",
@@ -4557,7 +4556,7 @@
 		"prevol" : "Smoochum",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Ice / Psychic",
+		"abils" : "Ice / Psychic"
 	},
 	{
 		"name" : "Electabuzz",
@@ -4587,7 +4586,7 @@
 		"prevol" : "Elekid",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Magmar",
@@ -4617,7 +4616,7 @@
 		"prevol" : "Magby",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Pinsir",
@@ -4647,7 +4646,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Pinsir (Mega Pinsir)",
@@ -4677,7 +4676,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Flying",
+		"abils" : "Bug / Flying"
 	},
 	{
 		"name" : "Tauros",
@@ -4707,7 +4706,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Magikarp",
@@ -4737,7 +4736,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 2",
 		"typing" : "Dragon",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Gyarados",
@@ -4767,7 +4766,7 @@
 		"prevol" : "Magikarp",
 		"egg1" : "Water 2",
 		"typing" : "Dragon",
-		"abils" : "Water / Flying",
+		"abils" : "Water / Flying"
 	},
 	{
 		"name" : "Gyarados (Mega Gyarados)",
@@ -4797,7 +4796,7 @@
 		"prevol" : "Magikarp",
 		"egg1" : "Water 2",
 		"typing" : "Dragon",
-		"abils" : "Water / Dark",
+		"abils" : "Water / Dark"
 	},
 	{
 		"name" : "Lapras",
@@ -4827,7 +4826,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water / Ice",
+		"abils" : "Water / Ice"
 	},
 	{
 		"name" : "Ditto",
@@ -4857,7 +4856,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Ditto",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Eevee",
@@ -4887,7 +4886,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Vaporeon",
@@ -4917,7 +4916,7 @@
 		"prevol" : "Eevee",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Jolteon",
@@ -4947,7 +4946,7 @@
 		"prevol" : "Eevee",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Flareon",
@@ -4977,7 +4976,7 @@
 		"prevol" : "Eevee",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Porygon",
@@ -5007,7 +5006,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Omanyte",
@@ -5037,7 +5036,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Water 3",
-		"abils" : "Rock / Water",
+		"abils" : "Rock / Water"
 	},
 	{
 		"name" : "Omastar",
@@ -5067,7 +5066,7 @@
 		"prevol" : "Omanyte",
 		"egg1" : "Water 1",
 		"typing" : "Water 3",
-		"abils" : "Rock / Water",
+		"abils" : "Rock / Water"
 	},
 	{
 		"name" : "Kabuto",
@@ -5097,7 +5096,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Water 3",
-		"abils" : "Rock / Water",
+		"abils" : "Rock / Water"
 	},
 	{
 		"name" : "Kabutops",
@@ -5127,7 +5126,7 @@
 		"prevol" : "Kabuto",
 		"egg1" : "Water 1",
 		"typing" : "Water 3",
-		"abils" : "Rock / Water",
+		"abils" : "Rock / Water"
 	},
 	{
 		"name" : "Aerodactyl",
@@ -5157,7 +5156,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Rock / Flying",
+		"abils" : "Rock / Flying"
 	},
 	{
 		"name" : "Aerodactyl (Mega Aerodactyl)",
@@ -5187,7 +5186,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Rock / Flying",
+		"abils" : "Rock / Flying"
 	},
 	{
 		"name" : "Snorlax",
@@ -5217,7 +5216,7 @@
 		"prevol" : "Munchlax",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Articuno",
@@ -5247,7 +5246,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Ice / Flying",
+		"abils" : "Ice / Flying"
 	},
 	{
 		"name" : "Zapdos",
@@ -5277,7 +5276,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Electric / Flying",
+		"abils" : "Electric / Flying"
 	},
 	{
 		"name" : "Moltres",
@@ -5307,7 +5306,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Fire / Flying",
+		"abils" : "Fire / Flying"
 	},
 	{
 		"name" : "Dratini",
@@ -5337,7 +5336,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Dragon",
-		"abils" : "Dragon",
+		"abils" : "Dragon"
 	},
 	{
 		"name" : "Dragonair",
@@ -5367,7 +5366,7 @@
 		"prevol" : "Dratini",
 		"egg1" : "Water 1",
 		"typing" : "Dragon",
-		"abils" : "Dragon",
+		"abils" : "Dragon"
 	},
 	{
 		"name" : "Dragonite",
@@ -5397,7 +5396,7 @@
 		"prevol" : "Dragonair",
 		"egg1" : "Water 1",
 		"typing" : "Dragon",
-		"abils" : "Dragon / Flying",
+		"abils" : "Dragon / Flying"
 	},
 	{
 		"name" : "Mewtwo",
@@ -5427,7 +5426,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Mewtwo (Mega Mewtwo X)",
@@ -5457,7 +5456,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Fighting",
+		"abils" : "Psychic / Fighting"
 	},
 	{
 		"name" : "Mewtwo (Mega Mewtwo Y)",
@@ -5487,7 +5486,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Mew",
@@ -5517,7 +5516,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Chikorita",
@@ -5547,7 +5546,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Grass",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Bayleef",
@@ -5577,7 +5576,7 @@
 		"prevol" : "Chikorita",
 		"egg1" : "Monster",
 		"typing" : "Grass",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Meganium",
@@ -5607,7 +5606,7 @@
 		"prevol" : "Bayleef",
 		"egg1" : "Monster",
 		"typing" : "Grass",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Cyndaquil",
@@ -5637,7 +5636,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Quilava",
@@ -5667,7 +5666,7 @@
 		"prevol" : "Cyndaquil",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Typhlosion",
@@ -5697,7 +5696,7 @@
 		"prevol" : "Quilava",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Totodile",
@@ -5727,7 +5726,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Croconaw",
@@ -5757,7 +5756,7 @@
 		"prevol" : "Totodile",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Feraligatr",
@@ -5787,7 +5786,7 @@
 		"prevol" : "Croconaw",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Sentret",
@@ -5817,7 +5816,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Furret",
@@ -5847,7 +5846,7 @@
 		"prevol" : "Sentret",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Hoothoot",
@@ -5877,7 +5876,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Noctowl",
@@ -5907,7 +5906,7 @@
 		"prevol" : "Hoothoot",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Ledyba",
@@ -5937,7 +5936,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Flying",
+		"abils" : "Bug / Flying"
 	},
 	{
 		"name" : "Ledian",
@@ -5967,7 +5966,7 @@
 		"prevol" : "Ledyba",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Flying",
+		"abils" : "Bug / Flying"
 	},
 	{
 		"name" : "Spinarak",
@@ -5997,7 +5996,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Poison",
+		"abils" : "Bug / Poison"
 	},
 	{
 		"name" : "Ariados",
@@ -6027,7 +6026,7 @@
 		"prevol" : "Spinarak",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Poison",
+		"abils" : "Bug / Poison"
 	},
 	{
 		"name" : "Crobat",
@@ -6057,7 +6056,7 @@
 		"prevol" : "Golbat",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Poison / Flying",
+		"abils" : "Poison / Flying"
 	},
 	{
 		"name" : "Chinchou",
@@ -6087,7 +6086,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water / Electric",
+		"abils" : "Water / Electric"
 	},
 	{
 		"name" : "Lanturn",
@@ -6117,7 +6116,7 @@
 		"prevol" : "Chinchou",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water / Electric",
+		"abils" : "Water / Electric"
 	},
 	{
 		"name" : "Pichu",
@@ -6147,7 +6146,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Cleffa",
@@ -6177,7 +6176,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Igglybuff",
@@ -6207,7 +6206,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Normal / Fairy",
+		"abils" : "Normal / Fairy"
 	},
 	{
 		"name" : "Togepi",
@@ -6237,7 +6236,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Togetic",
@@ -6267,7 +6266,7 @@
 		"prevol" : "Togepi",
 		"egg1" : "Flying",
 		"typing" : "Fairy",
-		"abils" : "Fairy / Flying",
+		"abils" : "Fairy / Flying"
 	},
 	{
 		"name" : "Natu",
@@ -6297,7 +6296,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Flying",
+		"abils" : "Psychic / Flying"
 	},
 	{
 		"name" : "Xatu",
@@ -6327,7 +6326,7 @@
 		"prevol" : "Natu",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Flying",
+		"abils" : "Psychic / Flying"
 	},
 	{
 		"name" : "Mareep",
@@ -6357,7 +6356,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Field",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Flaaffy",
@@ -6387,7 +6386,7 @@
 		"prevol" : "Mareep",
 		"egg1" : "Monster",
 		"typing" : "Field",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Ampharos",
@@ -6417,7 +6416,7 @@
 		"prevol" : "Flaaffy",
 		"egg1" : "Monster",
 		"typing" : "Field",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Ampharos (Mega Ampharos)",
@@ -6447,7 +6446,7 @@
 		"prevol" : "Flaaffy",
 		"egg1" : "Monster",
 		"typing" : "Field",
-		"abils" : "Electric / Dragon",
+		"abils" : "Electric / Dragon"
 	},
 	{
 		"name" : "Bellossom",
@@ -6477,7 +6476,7 @@
 		"prevol" : "Gloom",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Marill",
@@ -6507,7 +6506,7 @@
 		"prevol" : "Azurill",
 		"egg1" : "Water 1",
 		"typing" : "Fairy",
-		"abils" : "Water / Fairy",
+		"abils" : "Water / Fairy"
 	},
 	{
 		"name" : "Azumarill",
@@ -6537,7 +6536,7 @@
 		"prevol" : "Marill",
 		"egg1" : "Water 1",
 		"typing" : "Fairy",
-		"abils" : "Water / Fairy",
+		"abils" : "Water / Fairy"
 	},
 	{
 		"name" : "Sudowoodo",
@@ -6567,7 +6566,7 @@
 		"prevol" : "Bonsly",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock",
+		"abils" : "Rock"
 	},
 	{
 		"name" : "Politoed",
@@ -6597,7 +6596,7 @@
 		"prevol" : "Poliwhirl",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Hoppip",
@@ -6627,7 +6626,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Fairy",
 		"typing" : "Grass",
-		"abils" : "Grass / Flying",
+		"abils" : "Grass / Flying"
 	},
 	{
 		"name" : "Skiploom",
@@ -6657,7 +6656,7 @@
 		"prevol" : "Hoppip",
 		"egg1" : "Fairy",
 		"typing" : "Grass",
-		"abils" : "Grass / Flying",
+		"abils" : "Grass / Flying"
 	},
 	{
 		"name" : "Jumpluff",
@@ -6687,7 +6686,7 @@
 		"prevol" : "Skiploom",
 		"egg1" : "Fairy",
 		"typing" : "Grass",
-		"abils" : "Grass / Flying",
+		"abils" : "Grass / Flying"
 	},
 	{
 		"name" : "Aipom",
@@ -6717,7 +6716,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Sunkern",
@@ -6747,7 +6746,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Sunflora",
@@ -6777,7 +6776,7 @@
 		"prevol" : "Sunkern",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Yanma",
@@ -6807,7 +6806,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Flying",
+		"abils" : "Bug / Flying"
 	},
 	{
 		"name" : "Wooper",
@@ -6837,7 +6836,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Water / Ground",
+		"abils" : "Water / Ground"
 	},
 	{
 		"name" : "Quagsire",
@@ -6867,7 +6866,7 @@
 		"prevol" : "Wooper",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Water / Ground",
+		"abils" : "Water / Ground"
 	},
 	{
 		"name" : "Espeon",
@@ -6897,7 +6896,7 @@
 		"prevol" : "Eevee",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Umbreon",
@@ -6927,7 +6926,7 @@
 		"prevol" : "Eevee",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark",
+		"abils" : "Dark"
 	},
 	{
 		"name" : "Murkrow",
@@ -6957,7 +6956,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Dark / Flying",
+		"abils" : "Dark / Flying"
 	},
 	{
 		"name" : "Slowking",
@@ -6987,7 +6986,7 @@
 		"prevol" : "Slowpoke",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water / Psychic",
+		"abils" : "Water / Psychic"
 	},
 	{
 		"name" : "Misdreavus",
@@ -7017,7 +7016,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost",
+		"abils" : "Ghost"
 	},
 	{
 		"name" : "Unown",
@@ -7047,7 +7046,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Wobbuffet",
@@ -7077,7 +7076,7 @@
 		"prevol" : "Wynaut",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Girafarig",
@@ -7107,7 +7106,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal / Psychic",
+		"abils" : "Normal / Psychic"
 	},
 	{
 		"name" : "Pineco",
@@ -7137,7 +7136,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Forretress",
@@ -7167,7 +7166,7 @@
 		"prevol" : "Pineco",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Steel",
+		"abils" : "Bug / Steel"
 	},
 	{
 		"name" : "Dunsparce",
@@ -7197,7 +7196,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Gligar",
@@ -7227,7 +7226,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Ground / Flying",
+		"abils" : "Ground / Flying"
 	},
 	{
 		"name" : "Steelix",
@@ -7257,7 +7256,7 @@
 		"prevol" : "Onix",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel / Ground",
+		"abils" : "Steel / Ground"
 	},
 	{
 		"name" : "Steelix (Mega Steelix)",
@@ -7287,7 +7286,7 @@
 		"prevol" : "Onix",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel / Ground",
+		"abils" : "Steel / Ground"
 	},
 	{
 		"name" : "Snubbull",
@@ -7317,7 +7316,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Fairy",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Granbull",
@@ -7347,7 +7346,7 @@
 		"prevol" : "Snubbull",
 		"egg1" : "Field",
 		"typing" : "Fairy",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Qwilfish",
@@ -7377,7 +7376,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water / Poison",
+		"abils" : "Water / Poison"
 	},
 	{
 		"name" : "Scizor",
@@ -7407,7 +7406,7 @@
 		"prevol" : "Scyther",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Steel",
+		"abils" : "Bug / Steel"
 	},
 	{
 		"name" : "Scizor (Mega Scizor)",
@@ -7437,7 +7436,7 @@
 		"prevol" : "Scyther",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Steel",
+		"abils" : "Bug / Steel"
 	},
 	{
 		"name" : "Shuckle",
@@ -7467,7 +7466,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Rock",
+		"abils" : "Bug / Rock"
 	},
 	{
 		"name" : "Heracross",
@@ -7497,7 +7496,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Fighting",
+		"abils" : "Bug / Fighting"
 	},
 	{
 		"name" : "Heracross (Mega Heracross)",
@@ -7527,7 +7526,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Fighting",
+		"abils" : "Bug / Fighting"
 	},
 	{
 		"name" : "Sneasel",
@@ -7557,7 +7556,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark / Ice",
+		"abils" : "Dark / Ice"
 	},
 	{
 		"name" : "Teddiursa",
@@ -7587,7 +7586,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Ursaring",
@@ -7617,7 +7616,7 @@
 		"prevol" : "Teddiursa",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Slugma",
@@ -7647,7 +7646,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Magcargo",
@@ -7677,7 +7676,7 @@
 		"prevol" : "Slugma",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Fire / Rock",
+		"abils" : "Fire / Rock"
 	},
 	{
 		"name" : "Swinub",
@@ -7707,7 +7706,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ice / Ground",
+		"abils" : "Ice / Ground"
 	},
 	{
 		"name" : "Piloswine",
@@ -7737,7 +7736,7 @@
 		"prevol" : "Swinub",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ice / Ground",
+		"abils" : "Ice / Ground"
 	},
 	{
 		"name" : "Corsola",
@@ -7767,7 +7766,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Water 3",
-		"abils" : "Water / Rock",
+		"abils" : "Water / Rock"
 	},
 	{
 		"name" : "Remoraid",
@@ -7797,7 +7796,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Water 2",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Octillery",
@@ -7827,7 +7826,7 @@
 		"prevol" : "Remoraid",
 		"egg1" : "Water 1",
 		"typing" : "Water 2",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Delibird",
@@ -7857,7 +7856,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Ice / Flying",
+		"abils" : "Ice / Flying"
 	},
 	{
 		"name" : "Mantine",
@@ -7887,7 +7886,7 @@
 		"prevol" : "Mantyke",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water / Flying",
+		"abils" : "Water / Flying"
 	},
 	{
 		"name" : "Skarmory",
@@ -7917,7 +7916,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Steel / Flying",
+		"abils" : "Steel / Flying"
 	},
 	{
 		"name" : "Houndour",
@@ -7947,7 +7946,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark / Fire",
+		"abils" : "Dark / Fire"
 	},
 	{
 		"name" : "Houndoom",
@@ -7977,7 +7976,7 @@
 		"prevol" : "Houndour",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark / Fire",
+		"abils" : "Dark / Fire"
 	},
 	{
 		"name" : "Houndoom (Mega Houndoom)",
@@ -8007,7 +8006,7 @@
 		"prevol" : "Houndour",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark / Fire",
+		"abils" : "Dark / Fire"
 	},
 	{
 		"name" : "Kingdra",
@@ -8037,7 +8036,7 @@
 		"prevol" : "Seadra",
 		"egg1" : "Water 1",
 		"typing" : "Dragon",
-		"abils" : "Water / Dragon",
+		"abils" : "Water / Dragon"
 	},
 	{
 		"name" : "Phanpy",
@@ -8067,7 +8066,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Donphan",
@@ -8097,7 +8096,7 @@
 		"prevol" : "Phanpy",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Porygon2",
@@ -8127,7 +8126,7 @@
 		"prevol" : "Porygon",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Stantler",
@@ -8157,7 +8156,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Smeargle",
@@ -8187,7 +8186,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Tyrogue",
@@ -8217,7 +8216,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Hitmontop",
@@ -8247,7 +8246,7 @@
 		"prevol" : "Tyrogue",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Smoochum",
@@ -8277,7 +8276,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Ice / Psychic",
+		"abils" : "Ice / Psychic"
 	},
 	{
 		"name" : "Elekid",
@@ -8307,7 +8306,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Magby",
@@ -8337,7 +8336,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Miltank",
@@ -8367,7 +8366,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Blissey",
@@ -8397,7 +8396,7 @@
 		"prevol" : "Chansey",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Raikou",
@@ -8427,7 +8426,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Entei",
@@ -8457,7 +8456,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Suicune",
@@ -8487,7 +8486,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Larvitar",
@@ -8517,7 +8516,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Rock / Ground",
+		"abils" : "Rock / Ground"
 	},
 	{
 		"name" : "Pupitar",
@@ -8547,7 +8546,7 @@
 		"prevol" : "Larvitar",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Rock / Ground",
+		"abils" : "Rock / Ground"
 	},
 	{
 		"name" : "Tyranitar",
@@ -8577,7 +8576,7 @@
 		"prevol" : "Pupitar",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Rock / Dark",
+		"abils" : "Rock / Dark"
 	},
 	{
 		"name" : "Tyranitar (Mega Tyranitar)",
@@ -8607,7 +8606,7 @@
 		"prevol" : "Pupitar",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Rock / Dark",
+		"abils" : "Rock / Dark"
 	},
 	{
 		"name" : "Lugia",
@@ -8637,7 +8636,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Flying",
+		"abils" : "Psychic / Flying"
 	},
 	{
 		"name" : "Ho-Oh",
@@ -8667,7 +8666,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Fire / Flying",
+		"abils" : "Fire / Flying"
 	},
 	{
 		"name" : "Celebi",
@@ -8697,7 +8696,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Grass",
+		"abils" : "Psychic / Grass"
 	},
 	{
 		"name" : "Treecko",
@@ -8727,7 +8726,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Grovyle",
@@ -8757,7 +8756,7 @@
 		"prevol" : "Treecko",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Sceptile",
@@ -8787,7 +8786,7 @@
 		"prevol" : "Grovyle",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Sceptile (Mega Sceptile)",
@@ -8817,7 +8816,7 @@
 		"prevol" : "Grovyle",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Grass / Dragon",
+		"abils" : "Grass / Dragon"
 	},
 	{
 		"name" : "Torchic",
@@ -8847,7 +8846,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Combusken",
@@ -8877,7 +8876,7 @@
 		"prevol" : "Torchic",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire / Fighting",
+		"abils" : "Fire / Fighting"
 	},
 	{
 		"name" : "Blaziken",
@@ -8907,7 +8906,7 @@
 		"prevol" : "Combusken",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire / Fighting",
+		"abils" : "Fire / Fighting"
 	},
 	{
 		"name" : "Blaziken (Mega Blaziken)",
@@ -8937,7 +8936,7 @@
 		"prevol" : "Combusken",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire / Fighting",
+		"abils" : "Fire / Fighting"
 	},
 	{
 		"name" : "Mudkip",
@@ -8967,7 +8966,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Marshtomp",
@@ -8997,7 +8996,7 @@
 		"prevol" : "Mudkip",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water / Ground",
+		"abils" : "Water / Ground"
 	},
 	{
 		"name" : "Swampert",
@@ -9027,7 +9026,7 @@
 		"prevol" : "Marshtomp",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water / Ground",
+		"abils" : "Water / Ground"
 	},
 	{
 		"name" : "Swampert (Mega Swampert)",
@@ -9057,7 +9056,7 @@
 		"prevol" : "Marshtomp",
 		"egg1" : "Monster",
 		"typing" : "Water 1",
-		"abils" : "Water / Ground",
+		"abils" : "Water / Ground"
 	},
 	{
 		"name" : "Poochyena",
@@ -9087,7 +9086,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark",
+		"abils" : "Dark"
 	},
 	{
 		"name" : "Mightyena",
@@ -9117,7 +9116,7 @@
 		"prevol" : "Poochyena",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark",
+		"abils" : "Dark"
 	},
 	{
 		"name" : "Zigzagoon",
@@ -9147,7 +9146,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Linoone",
@@ -9177,7 +9176,7 @@
 		"prevol" : "Zigzagoon",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Wurmple",
@@ -9207,7 +9206,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Silcoon",
@@ -9237,7 +9236,7 @@
 		"prevol" : "Wurmple",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Beautifly",
@@ -9267,7 +9266,7 @@
 		"prevol" : "Silcoon",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Flying",
+		"abils" : "Bug / Flying"
 	},
 	{
 		"name" : "Cascoon",
@@ -9297,7 +9296,7 @@
 		"prevol" : "Wurmple",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Dustox",
@@ -9327,7 +9326,7 @@
 		"prevol" : "Cascoon",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Poison",
+		"abils" : "Bug / Poison"
 	},
 	{
 		"name" : "Lotad",
@@ -9357,7 +9356,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Grass",
-		"abils" : "Water / Grass",
+		"abils" : "Water / Grass"
 	},
 	{
 		"name" : "Lombre",
@@ -9387,7 +9386,7 @@
 		"prevol" : "Lotad",
 		"egg1" : "Water 1",
 		"typing" : "Grass",
-		"abils" : "Water / Grass",
+		"abils" : "Water / Grass"
 	},
 	{
 		"name" : "Ludicolo",
@@ -9417,7 +9416,7 @@
 		"prevol" : "Lombre",
 		"egg1" : "Water 1",
 		"typing" : "Grass",
-		"abils" : "Water / Grass",
+		"abils" : "Water / Grass"
 	},
 	{
 		"name" : "Seedot",
@@ -9447,7 +9446,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Grass",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Nuzleaf",
@@ -9477,7 +9476,7 @@
 		"prevol" : "Seedot",
 		"egg1" : "Field",
 		"typing" : "Grass",
-		"abils" : "Grass / Dark",
+		"abils" : "Grass / Dark"
 	},
 	{
 		"name" : "Shiftry",
@@ -9507,7 +9506,7 @@
 		"prevol" : "Nuzleaf",
 		"egg1" : "Field",
 		"typing" : "Grass",
-		"abils" : "Grass / Dark",
+		"abils" : "Grass / Dark"
 	},
 	{
 		"name" : "Taillow",
@@ -9537,7 +9536,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Swellow",
@@ -9567,7 +9566,7 @@
 		"prevol" : "Taillow",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Wingull",
@@ -9597,7 +9596,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Flying",
-		"abils" : "Water / Flying",
+		"abils" : "Water / Flying"
 	},
 	{
 		"name" : "Pelipper",
@@ -9627,7 +9626,7 @@
 		"prevol" : "Wingull",
 		"egg1" : "Water 1",
 		"typing" : "Flying",
-		"abils" : "Water / Flying",
+		"abils" : "Water / Flying"
 	},
 	{
 		"name" : "Ralts",
@@ -9657,7 +9656,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Fairy",
+		"abils" : "Psychic / Fairy"
 	},
 	{
 		"name" : "Kirlia",
@@ -9687,7 +9686,7 @@
 		"prevol" : "Ralts",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Fairy",
+		"abils" : "Psychic / Fairy"
 	},
 	{
 		"name" : "Gardevoir",
@@ -9717,7 +9716,7 @@
 		"prevol" : "Kirlia",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Fairy",
+		"abils" : "Psychic / Fairy"
 	},
 	{
 		"name" : "Gardevoir (Mega Gardevoir)",
@@ -9747,7 +9746,7 @@
 		"prevol" : "Kirlia",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Fairy",
+		"abils" : "Psychic / Fairy"
 	},
 	{
 		"name" : "Surskit",
@@ -9777,7 +9776,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Bug",
-		"abils" : "Bug / Water",
+		"abils" : "Bug / Water"
 	},
 	{
 		"name" : "Masquerain",
@@ -9807,7 +9806,7 @@
 		"prevol" : "Surskit",
 		"egg1" : "Water 1",
 		"typing" : "Bug",
-		"abils" : "Bug / Flying",
+		"abils" : "Bug / Flying"
 	},
 	{
 		"name" : "Shroomish",
@@ -9837,7 +9836,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Fairy",
 		"typing" : "Grass",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Breloom",
@@ -9867,7 +9866,7 @@
 		"prevol" : "Shroomish",
 		"egg1" : "Fairy",
 		"typing" : "Grass",
-		"abils" : "Grass / Fighting",
+		"abils" : "Grass / Fighting"
 	},
 	{
 		"name" : "Slakoth",
@@ -9897,7 +9896,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Vigoroth",
@@ -9927,7 +9926,7 @@
 		"prevol" : "Slakoth",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Slaking",
@@ -9957,7 +9956,7 @@
 		"prevol" : "Vigoroth",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Nincada",
@@ -9987,7 +9986,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Ground",
+		"abils" : "Bug / Ground"
 	},
 	{
 		"name" : "Ninjask",
@@ -10017,7 +10016,7 @@
 		"prevol" : "Nincada",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Flying",
+		"abils" : "Bug / Flying"
 	},
 	{
 		"name" : "Shedinja",
@@ -10047,7 +10046,7 @@
 		"prevol" : "Nincada",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Bug / Ghost",
+		"abils" : "Bug / Ghost"
 	},
 	{
 		"name" : "Whismur",
@@ -10077,7 +10076,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Field",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Loudred",
@@ -10107,7 +10106,7 @@
 		"prevol" : "Whismur",
 		"egg1" : "Monster",
 		"typing" : "Field",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Exploud",
@@ -10137,7 +10136,7 @@
 		"prevol" : "Loudred",
 		"egg1" : "Monster",
 		"typing" : "Field",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Makuhita",
@@ -10167,7 +10166,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Hariyama",
@@ -10197,7 +10196,7 @@
 		"prevol" : "Makuhita",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Azurill",
@@ -10227,7 +10226,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Normal / Fairy",
+		"abils" : "Normal / Fairy"
 	},
 	{
 		"name" : "Nosepass",
@@ -10257,7 +10256,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock",
+		"abils" : "Rock"
 	},
 	{
 		"name" : "Skitty",
@@ -10287,7 +10286,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Fairy",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Delcatty",
@@ -10317,7 +10316,7 @@
 		"prevol" : "Skitty",
 		"egg1" : "Field",
 		"typing" : "Fairy",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Sableye",
@@ -10347,7 +10346,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Dark / Ghost",
+		"abils" : "Dark / Ghost"
 	},
 	{
 		"name" : "Sableye (Mega Sableye)",
@@ -10377,7 +10376,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Dark / Ghost",
+		"abils" : "Dark / Ghost"
 	},
 	{
 		"name" : "Mawile",
@@ -10407,7 +10406,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Fairy",
-		"abils" : "Steel / Fairy",
+		"abils" : "Steel / Fairy"
 	},
 	{
 		"name" : "Mawile (Mega Mawile)",
@@ -10437,7 +10436,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Fairy",
-		"abils" : "Steel / Fairy",
+		"abils" : "Steel / Fairy"
 	},
 	{
 		"name" : "Aron",
@@ -10467,7 +10466,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Steel / Rock",
+		"abils" : "Steel / Rock"
 	},
 	{
 		"name" : "Lairon",
@@ -10497,7 +10496,7 @@
 		"prevol" : "Aron",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Steel / Rock",
+		"abils" : "Steel / Rock"
 	},
 	{
 		"name" : "Aggron",
@@ -10527,7 +10526,7 @@
 		"prevol" : "Lairon",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Steel / Rock",
+		"abils" : "Steel / Rock"
 	},
 	{
 		"name" : "Aggron (Mega Aggron)",
@@ -10557,7 +10556,7 @@
 		"prevol" : "Lairon",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Steel",
+		"abils" : "Steel"
 	},
 	{
 		"name" : "Meditite",
@@ -10587,7 +10586,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting / Psychic",
+		"abils" : "Fighting / Psychic"
 	},
 	{
 		"name" : "Medicham",
@@ -10617,7 +10616,7 @@
 		"prevol" : "Meditite",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting / Psychic",
+		"abils" : "Fighting / Psychic"
 	},
 	{
 		"name" : "Medicham (Mega Medicham)",
@@ -10647,7 +10646,7 @@
 		"prevol" : "Meditite",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting / Psychic",
+		"abils" : "Fighting / Psychic"
 	},
 	{
 		"name" : "Electrike",
@@ -10677,7 +10676,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Manectric",
@@ -10707,7 +10706,7 @@
 		"prevol" : "Electrike",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Manectric (Mega Manectric)",
@@ -10737,7 +10736,7 @@
 		"prevol" : "Electrike",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Plusle",
@@ -10767,7 +10766,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Minun",
@@ -10797,7 +10796,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Volbeat",
@@ -10827,7 +10826,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "Human-Like",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Illumise",
@@ -10857,7 +10856,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "Human-Like",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Roselia",
@@ -10887,7 +10886,7 @@
 		"prevol" : "Budew",
 		"egg1" : "Fairy",
 		"typing" : "Grass",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Gulpin",
@@ -10917,7 +10916,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Swalot",
@@ -10947,7 +10946,7 @@
 		"prevol" : "Gulpin",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Carvanha",
@@ -10977,7 +10976,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water / Dark",
+		"abils" : "Water / Dark"
 	},
 	{
 		"name" : "Sharpedo",
@@ -11007,7 +11006,7 @@
 		"prevol" : "Carvanha",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water / Dark",
+		"abils" : "Water / Dark"
 	},
 	{
 		"name" : "Sharpedo (Mega Sharpedo)",
@@ -11037,7 +11036,7 @@
 		"prevol" : "Carvanha",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water / Dark",
+		"abils" : "Water / Dark"
 	},
 	{
 		"name" : "Wailmer",
@@ -11067,7 +11066,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Water 2",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Wailord",
@@ -11097,7 +11096,7 @@
 		"prevol" : "Wailmer",
 		"egg1" : "Field",
 		"typing" : "Water 2",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Numel",
@@ -11127,7 +11126,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire / Ground",
+		"abils" : "Fire / Ground"
 	},
 	{
 		"name" : "Camerupt",
@@ -11157,7 +11156,7 @@
 		"prevol" : "Numel",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire / Ground",
+		"abils" : "Fire / Ground"
 	},
 	{
 		"name" : "Camerupt (Mega Camerupt)",
@@ -11187,7 +11186,7 @@
 		"prevol" : "Numel",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire / Ground",
+		"abils" : "Fire / Ground"
 	},
 	{
 		"name" : "Torkoal",
@@ -11217,7 +11216,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Spoink",
@@ -11247,7 +11246,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Grumpig",
@@ -11277,7 +11276,7 @@
 		"prevol" : "Spoink",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Spinda",
@@ -11307,7 +11306,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Human-Like",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Trapinch",
@@ -11337,7 +11336,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Vibrava",
@@ -11367,7 +11366,7 @@
 		"prevol" : "Trapinch",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Ground / Dragon",
+		"abils" : "Ground / Dragon"
 	},
 	{
 		"name" : "Flygon",
@@ -11397,7 +11396,7 @@
 		"prevol" : "Vibrava",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Ground / Dragon",
+		"abils" : "Ground / Dragon"
 	},
 	{
 		"name" : "Cacnea",
@@ -11427,7 +11426,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "Human-Like",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Cacturne",
@@ -11457,7 +11456,7 @@
 		"prevol" : "Cacnea",
 		"egg1" : "Grass",
 		"typing" : "Human-Like",
-		"abils" : "Grass / Dark",
+		"abils" : "Grass / Dark"
 	},
 	{
 		"name" : "Swablu",
@@ -11487,7 +11486,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "Dragon",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Altaria",
@@ -11517,7 +11516,7 @@
 		"prevol" : "Swablu",
 		"egg1" : "Flying",
 		"typing" : "Dragon",
-		"abils" : "Dragon / Flying",
+		"abils" : "Dragon / Flying"
 	},
 	{
 		"name" : "Altaria (Mega Altaria)",
@@ -11547,7 +11546,7 @@
 		"prevol" : "Swablu",
 		"egg1" : "Flying",
 		"typing" : "Dragon",
-		"abils" : "Dragon / Fairy",
+		"abils" : "Dragon / Fairy"
 	},
 	{
 		"name" : "Zangoose",
@@ -11577,7 +11576,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Seviper",
@@ -11607,7 +11606,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Dragon",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Lunatone",
@@ -11637,7 +11636,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock / Psychic",
+		"abils" : "Rock / Psychic"
 	},
 	{
 		"name" : "Solrock",
@@ -11667,7 +11666,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock / Psychic",
+		"abils" : "Rock / Psychic"
 	},
 	{
 		"name" : "Barboach",
@@ -11697,7 +11696,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water / Ground",
+		"abils" : "Water / Ground"
 	},
 	{
 		"name" : "Whiscash",
@@ -11727,7 +11726,7 @@
 		"prevol" : "Barboach",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water / Ground",
+		"abils" : "Water / Ground"
 	},
 	{
 		"name" : "Corphish",
@@ -11757,7 +11756,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Water 3",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Crawdaunt",
@@ -11787,7 +11786,7 @@
 		"prevol" : "Corphish",
 		"egg1" : "Water 1",
 		"typing" : "Water 3",
-		"abils" : "Water / Dark",
+		"abils" : "Water / Dark"
 	},
 	{
 		"name" : "Baltoy",
@@ -11817,7 +11816,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Ground / Psychic",
+		"abils" : "Ground / Psychic"
 	},
 	{
 		"name" : "Claydol",
@@ -11847,7 +11846,7 @@
 		"prevol" : "Baltoy",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Ground / Psychic",
+		"abils" : "Ground / Psychic"
 	},
 	{
 		"name" : "Lileep",
@@ -11877,7 +11876,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Rock / Grass",
+		"abils" : "Rock / Grass"
 	},
 	{
 		"name" : "Cradily",
@@ -11907,7 +11906,7 @@
 		"prevol" : "Lileep",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Rock / Grass",
+		"abils" : "Rock / Grass"
 	},
 	{
 		"name" : "Anorith",
@@ -11937,7 +11936,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Rock / Bug",
+		"abils" : "Rock / Bug"
 	},
 	{
 		"name" : "Armaldo",
@@ -11967,7 +11966,7 @@
 		"prevol" : "Anorith",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Rock / Bug",
+		"abils" : "Rock / Bug"
 	},
 	{
 		"name" : "Feebas",
@@ -11997,7 +11996,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Dragon",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Milotic",
@@ -12027,7 +12026,7 @@
 		"prevol" : "Feebas",
 		"egg1" : "Water 1",
 		"typing" : "Dragon",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Castform (Normal)",
@@ -12057,7 +12056,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Fairy",
 		"typing" : "Amorphous",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Kecleon",
@@ -12087,7 +12086,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Shuppet",
@@ -12117,7 +12116,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost",
+		"abils" : "Ghost"
 	},
 	{
 		"name" : "Banette",
@@ -12147,7 +12146,7 @@
 		"prevol" : "Shuppet",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost",
+		"abils" : "Ghost"
 	},
 	{
 		"name" : "Banette (Mega Banette)",
@@ -12177,7 +12176,7 @@
 		"prevol" : "Shuppet",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost",
+		"abils" : "Ghost"
 	},
 	{
 		"name" : "Duskull",
@@ -12207,7 +12206,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost",
+		"abils" : "Ghost"
 	},
 	{
 		"name" : "Dusclops",
@@ -12237,7 +12236,7 @@
 		"prevol" : "Duskull",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost",
+		"abils" : "Ghost"
 	},
 	{
 		"name" : "Tropius",
@@ -12267,7 +12266,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Grass",
-		"abils" : "Grass / Flying",
+		"abils" : "Grass / Flying"
 	},
 	{
 		"name" : "Chimecho",
@@ -12297,7 +12296,7 @@
 		"prevol" : "Chingling",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Absol",
@@ -12327,7 +12326,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark",
+		"abils" : "Dark"
 	},
 	{
 		"name" : "Absol (Mega Absol)",
@@ -12357,7 +12356,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark",
+		"abils" : "Dark"
 	},
 	{
 		"name" : "Wynaut",
@@ -12387,7 +12386,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Snorunt",
@@ -12417,7 +12416,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Fairy",
 		"typing" : "Mineral",
-		"abils" : "Ice",
+		"abils" : "Ice"
 	},
 	{
 		"name" : "Glalie",
@@ -12447,7 +12446,7 @@
 		"prevol" : "Snorunt",
 		"egg1" : "Fairy",
 		"typing" : "Mineral",
-		"abils" : "Ice",
+		"abils" : "Ice"
 	},
 	{
 		"name" : "Glalie (Mega Glalie)",
@@ -12477,7 +12476,7 @@
 		"prevol" : "Snorunt",
 		"egg1" : "Fairy",
 		"typing" : "Mineral",
-		"abils" : "Ice",
+		"abils" : "Ice"
 	},
 	{
 		"name" : "Spheal",
@@ -12507,7 +12506,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Ice / Water",
+		"abils" : "Ice / Water"
 	},
 	{
 		"name" : "Sealeo",
@@ -12537,7 +12536,7 @@
 		"prevol" : "Spheal",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Ice / Water",
+		"abils" : "Ice / Water"
 	},
 	{
 		"name" : "Walrein",
@@ -12567,7 +12566,7 @@
 		"prevol" : "Sealeo",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Ice / Water",
+		"abils" : "Ice / Water"
 	},
 	{
 		"name" : "Clamperl",
@@ -12597,7 +12596,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Huntail",
@@ -12627,7 +12626,7 @@
 		"prevol" : "Clamperl",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Gorebyss",
@@ -12657,7 +12656,7 @@
 		"prevol" : "Clamperl",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Relicanth",
@@ -12687,7 +12686,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Water 2",
-		"abils" : "Water / Rock",
+		"abils" : "Water / Rock"
 	},
 	{
 		"name" : "Luvdisc",
@@ -12717,7 +12716,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Bagon",
@@ -12747,7 +12746,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Dragon",
 		"typing" : "#N/A",
-		"abils" : "Dragon",
+		"abils" : "Dragon"
 	},
 	{
 		"name" : "Shelgon",
@@ -12777,7 +12776,7 @@
 		"prevol" : "Bagon",
 		"egg1" : "Dragon",
 		"typing" : "#N/A",
-		"abils" : "Dragon",
+		"abils" : "Dragon"
 	},
 	{
 		"name" : "Salamence",
@@ -12807,7 +12806,7 @@
 		"prevol" : "Shelgon",
 		"egg1" : "Dragon",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Flying",
+		"abils" : "Dragon / Flying"
 	},
 	{
 		"name" : "Salamence (Mega Salamence)",
@@ -12837,7 +12836,7 @@
 		"prevol" : "Shelgon",
 		"egg1" : "Dragon",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Flying",
+		"abils" : "Dragon / Flying"
 	},
 	{
 		"name" : "Beldum",
@@ -12867,7 +12866,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel / Psychic",
+		"abils" : "Steel / Psychic"
 	},
 	{
 		"name" : "Metang",
@@ -12897,7 +12896,7 @@
 		"prevol" : "Beldum",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel / Psychic",
+		"abils" : "Steel / Psychic"
 	},
 	{
 		"name" : "Metagross",
@@ -12927,7 +12926,7 @@
 		"prevol" : "Metang",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel / Psychic",
+		"abils" : "Steel / Psychic"
 	},
 	{
 		"name" : "Metagross (Mega Metagross)",
@@ -12957,7 +12956,7 @@
 		"prevol" : "Metang",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel / Psychic",
+		"abils" : "Steel / Psychic"
 	},
 	{
 		"name" : "Regirock",
@@ -12987,7 +12986,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Rock",
+		"abils" : "Rock"
 	},
 	{
 		"name" : "Regice",
@@ -13017,7 +13016,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Ice",
+		"abils" : "Ice"
 	},
 	{
 		"name" : "Registeel",
@@ -13047,7 +13046,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Steel",
+		"abils" : "Steel"
 	},
 	{
 		"name" : "Latias",
@@ -13077,7 +13076,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Psychic",
+		"abils" : "Dragon / Psychic"
 	},
 	{
 		"name" : "Latias (Mega Latias)",
@@ -13107,7 +13106,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Psychic",
+		"abils" : "Dragon / Psychic"
 	},
 	{
 		"name" : "Latios",
@@ -13137,7 +13136,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Psychic",
+		"abils" : "Dragon / Psychic"
 	},
 	{
 		"name" : "Latios (Mega Latios)",
@@ -13167,7 +13166,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Psychic",
+		"abils" : "Dragon / Psychic"
 	},
 	{
 		"name" : "Kyogre",
@@ -13197,7 +13196,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Kyogre (Primal Reversion)",
@@ -13227,7 +13226,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Groudon",
@@ -13257,7 +13256,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Groudon (Primal Reversion)",
@@ -13287,7 +13286,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Ground / Fire",
+		"abils" : "Ground / Fire"
 	},
 	{
 		"name" : "Rayquaza",
@@ -13317,7 +13316,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Flying",
+		"abils" : "Dragon / Flying"
 	},
 	{
 		"name" : "Rayquaza (Mega Rayquaza)",
@@ -13347,7 +13346,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Flying",
+		"abils" : "Dragon / Flying"
 	},
 	{
 		"name" : "Jirachi",
@@ -13377,7 +13376,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Steel / Psychic",
+		"abils" : "Steel / Psychic"
 	},
 	{
 		"name" : "Deoxys (Normal Forme)",
@@ -13407,7 +13406,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Deoxys (Defense Forme)",
@@ -13437,7 +13436,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Deoxys (Attack Forme)",
@@ -13467,7 +13466,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Deoxys (Speed Forme)",
@@ -13497,7 +13496,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Turtwig",
@@ -13527,7 +13526,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Grass",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Grotle",
@@ -13557,7 +13556,7 @@
 		"prevol" : "Turtwig",
 		"egg1" : "Monster",
 		"typing" : "Grass",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Torterra",
@@ -13587,7 +13586,7 @@
 		"prevol" : "Grotle",
 		"egg1" : "Monster",
 		"typing" : "Grass",
-		"abils" : "Grass / Ground",
+		"abils" : "Grass / Ground"
 	},
 	{
 		"name" : "Chimchar",
@@ -13617,7 +13616,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Human-Like",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Monferno",
@@ -13647,7 +13646,7 @@
 		"prevol" : "Chimchar",
 		"egg1" : "Field",
 		"typing" : "Human-Like",
-		"abils" : "Fire / Fighting",
+		"abils" : "Fire / Fighting"
 	},
 	{
 		"name" : "Infernape",
@@ -13677,7 +13676,7 @@
 		"prevol" : "Monferno",
 		"egg1" : "Field",
 		"typing" : "Human-Like",
-		"abils" : "Fire / Fighting",
+		"abils" : "Fire / Fighting"
 	},
 	{
 		"name" : "Piplup",
@@ -13707,7 +13706,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Prinplup",
@@ -13737,7 +13736,7 @@
 		"prevol" : "Piplup",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Empoleon",
@@ -13767,7 +13766,7 @@
 		"prevol" : "Prinplup",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Water / Steel",
+		"abils" : "Water / Steel"
 	},
 	{
 		"name" : "Starly",
@@ -13797,7 +13796,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Staravia",
@@ -13827,7 +13826,7 @@
 		"prevol" : "Starly",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Staraptor",
@@ -13857,7 +13856,7 @@
 		"prevol" : "Staravia",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Bidoof",
@@ -13887,7 +13886,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Bibarel",
@@ -13917,7 +13916,7 @@
 		"prevol" : "Bidoof",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Normal / Water",
+		"abils" : "Normal / Water"
 	},
 	{
 		"name" : "Kricketot",
@@ -13947,7 +13946,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Kricketune",
@@ -13977,7 +13976,7 @@
 		"prevol" : "Kricketot",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Shinx",
@@ -14007,7 +14006,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Luxio",
@@ -14037,7 +14036,7 @@
 		"prevol" : "Shinx",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Luxray",
@@ -14067,7 +14066,7 @@
 		"prevol" : "Luxio",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Budew",
@@ -14097,7 +14096,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Roserade",
@@ -14127,7 +14126,7 @@
 		"prevol" : "Roselia",
 		"egg1" : "Fairy",
 		"typing" : "Grass",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Cranidos",
@@ -14157,7 +14156,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Rock",
+		"abils" : "Rock"
 	},
 	{
 		"name" : "Rampardos",
@@ -14187,7 +14186,7 @@
 		"prevol" : "Cranidos",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Rock",
+		"abils" : "Rock"
 	},
 	{
 		"name" : "Shieldon",
@@ -14217,7 +14216,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Rock / Steel",
+		"abils" : "Rock / Steel"
 	},
 	{
 		"name" : "Bastiodon",
@@ -14247,7 +14246,7 @@
 		"prevol" : "Shieldon",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Rock / Steel",
+		"abils" : "Rock / Steel"
 	},
 	{
 		"name" : "Burmy",
@@ -14277,7 +14276,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Wormadam (Plant Cloak)",
@@ -14307,7 +14306,7 @@
 		"prevol" : "Burmy",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Grass",
+		"abils" : "Bug / Grass"
 	},
 	{
 		"name" : "Wormadam (Sandy Cloak)",
@@ -14337,7 +14336,7 @@
 		"prevol" : "Burmy",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Ground",
+		"abils" : "Bug / Ground"
 	},
 	{
 		"name" : "Wormadam (Trash Cloak)",
@@ -14367,7 +14366,7 @@
 		"prevol" : "Burmy",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Steel",
+		"abils" : "Bug / Steel"
 	},
 	{
 		"name" : "Mothim",
@@ -14397,7 +14396,7 @@
 		"prevol" : "Burmy",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Flying",
+		"abils" : "Bug / Flying"
 	},
 	{
 		"name" : "Combee",
@@ -14427,7 +14426,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Flying",
+		"abils" : "Bug / Flying"
 	},
 	{
 		"name" : "Vespiquen",
@@ -14457,7 +14456,7 @@
 		"prevol" : "Combee",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Flying",
+		"abils" : "Bug / Flying"
 	},
 	{
 		"name" : "Pachirisu",
@@ -14487,7 +14486,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Fairy",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Buizel",
@@ -14517,7 +14516,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Floatzel",
@@ -14547,7 +14546,7 @@
 		"prevol" : "Buizel",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Cherubi",
@@ -14577,7 +14576,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Fairy",
 		"typing" : "Grass",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Cherrim",
@@ -14607,7 +14606,7 @@
 		"prevol" : "Cherubi",
 		"egg1" : "Fairy",
 		"typing" : "Grass",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Shellos",
@@ -14637,7 +14636,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Amorphous",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Gastrodon",
@@ -14667,7 +14666,7 @@
 		"prevol" : "Shellos",
 		"egg1" : "Water 1",
 		"typing" : "Amorphous",
-		"abils" : "Water / Ground",
+		"abils" : "Water / Ground"
 	},
 	{
 		"name" : "Ambipom",
@@ -14697,7 +14696,7 @@
 		"prevol" : "Aipom",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Drifloon",
@@ -14727,7 +14726,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Flying",
+		"abils" : "Ghost / Flying"
 	},
 	{
 		"name" : "Drifblim",
@@ -14757,7 +14756,7 @@
 		"prevol" : "Drifloon",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Flying",
+		"abils" : "Ghost / Flying"
 	},
 	{
 		"name" : "Buneary",
@@ -14787,7 +14786,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Human-Like",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Lopunny",
@@ -14817,7 +14816,7 @@
 		"prevol" : "Buneary",
 		"egg1" : "Field",
 		"typing" : "Human-Like",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Lopunny (Mega Lopunny)",
@@ -14847,7 +14846,7 @@
 		"prevol" : "Buneary",
 		"egg1" : "Field",
 		"typing" : "Human-Like",
-		"abils" : "Normal / Fighting",
+		"abils" : "Normal / Fighting"
 	},
 	{
 		"name" : "Mismagius",
@@ -14877,7 +14876,7 @@
 		"prevol" : "Misdreavus",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost",
+		"abils" : "Ghost"
 	},
 	{
 		"name" : "Honchkrow",
@@ -14907,7 +14906,7 @@
 		"prevol" : "Murkrow",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Dark / Flying",
+		"abils" : "Dark / Flying"
 	},
 	{
 		"name" : "Glameow",
@@ -14937,7 +14936,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Purugly",
@@ -14967,7 +14966,7 @@
 		"prevol" : "Glameow",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Chingling",
@@ -14997,7 +14996,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Stunky",
@@ -15027,7 +15026,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Poison / Dark",
+		"abils" : "Poison / Dark"
 	},
 	{
 		"name" : "Skuntank",
@@ -15057,7 +15056,7 @@
 		"prevol" : "Stunky",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Poison / Dark",
+		"abils" : "Poison / Dark"
 	},
 	{
 		"name" : "Bronzor",
@@ -15087,7 +15086,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel / Psychic",
+		"abils" : "Steel / Psychic"
 	},
 	{
 		"name" : "Bronzong",
@@ -15117,7 +15116,7 @@
 		"prevol" : "Bronzor",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel / Psychic",
+		"abils" : "Steel / Psychic"
 	},
 	{
 		"name" : "Bonsly",
@@ -15147,7 +15146,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Rock",
+		"abils" : "Rock"
 	},
 	{
 		"name" : "Mime Jr.",
@@ -15177,7 +15176,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Fairy",
+		"abils" : "Psychic / Fairy"
 	},
 	{
 		"name" : "Happiny",
@@ -15207,7 +15206,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Chatot",
@@ -15237,7 +15236,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Spiritomb",
@@ -15267,7 +15266,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost",
+		"abils" : "Ghost"
 	},
 	{
 		"name" : "Gible",
@@ -15297,7 +15296,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Dragon / Ground",
+		"abils" : "Dragon / Ground"
 	},
 	{
 		"name" : "Gabite",
@@ -15327,7 +15326,7 @@
 		"prevol" : "Gible",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Dragon / Ground",
+		"abils" : "Dragon / Ground"
 	},
 	{
 		"name" : "Garchomp",
@@ -15357,7 +15356,7 @@
 		"prevol" : "Gabite",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Dragon / Ground",
+		"abils" : "Dragon / Ground"
 	},
 	{
 		"name" : "Garchomp (Mega Garchomp)",
@@ -15387,7 +15386,7 @@
 		"prevol" : "Gabite",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Dragon / Ground",
+		"abils" : "Dragon / Ground"
 	},
 	{
 		"name" : "Munchlax",
@@ -15417,7 +15416,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Riolu",
@@ -15447,7 +15446,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Lucario",
@@ -15477,7 +15476,7 @@
 		"prevol" : "Riolu",
 		"egg1" : "Field",
 		"typing" : "Human-Like",
-		"abils" : "Fighting / Steel",
+		"abils" : "Fighting / Steel"
 	},
 	{
 		"name" : "Lucario (Mega Lucario)",
@@ -15507,7 +15506,7 @@
 		"prevol" : "Riolu",
 		"egg1" : "Field",
 		"typing" : "Human-Like",
-		"abils" : "Fighting / Steel",
+		"abils" : "Fighting / Steel"
 	},
 	{
 		"name" : "Hippopotas",
@@ -15537,7 +15536,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Hippowdon",
@@ -15567,7 +15566,7 @@
 		"prevol" : "Hippopotas",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Skorupi",
@@ -15597,7 +15596,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "Water 3",
-		"abils" : "Poison / Bug",
+		"abils" : "Poison / Bug"
 	},
 	{
 		"name" : "Drapion",
@@ -15627,7 +15626,7 @@
 		"prevol" : "Skorupi",
 		"egg1" : "Bug",
 		"typing" : "Water 3",
-		"abils" : "Poison / Dark",
+		"abils" : "Poison / Dark"
 	},
 	{
 		"name" : "Croagunk",
@@ -15657,7 +15656,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Poison / Fighting",
+		"abils" : "Poison / Fighting"
 	},
 	{
 		"name" : "Toxicroak",
@@ -15687,7 +15686,7 @@
 		"prevol" : "Croagunk",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Poison / Fighting",
+		"abils" : "Poison / Fighting"
 	},
 	{
 		"name" : "Carnivine",
@@ -15717,7 +15716,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Finneon",
@@ -15747,7 +15746,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Lumineon",
@@ -15777,7 +15776,7 @@
 		"prevol" : "Finneon",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Mantyke",
@@ -15807,7 +15806,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Water / Flying",
+		"abils" : "Water / Flying"
 	},
 	{
 		"name" : "Snover",
@@ -15837,7 +15836,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Grass",
-		"abils" : "Grass / Ice",
+		"abils" : "Grass / Ice"
 	},
 	{
 		"name" : "Abomasnow",
@@ -15867,7 +15866,7 @@
 		"prevol" : "Snover",
 		"egg1" : "Monster",
 		"typing" : "Grass",
-		"abils" : "Grass / Ice",
+		"abils" : "Grass / Ice"
 	},
 	{
 		"name" : "Abomasnow (Mega Abomasnow)",
@@ -15897,7 +15896,7 @@
 		"prevol" : "Snover",
 		"egg1" : "Monster",
 		"typing" : "Grass",
-		"abils" : "Grass / Ice",
+		"abils" : "Grass / Ice"
 	},
 	{
 		"name" : "Weavile",
@@ -15927,7 +15926,7 @@
 		"prevol" : "Sneasel",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark / Ice",
+		"abils" : "Dark / Ice"
 	},
 	{
 		"name" : "Magnezone",
@@ -15957,7 +15956,7 @@
 		"prevol" : "Magneton",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Electric / Steel",
+		"abils" : "Electric / Steel"
 	},
 	{
 		"name" : "Lickilicky",
@@ -15987,7 +15986,7 @@
 		"prevol" : "Lickitung",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Rhyperior",
@@ -16017,7 +16016,7 @@
 		"prevol" : "Rhydon",
 		"egg1" : "Monster",
 		"typing" : "Field",
-		"abils" : "Ground / Rock",
+		"abils" : "Ground / Rock"
 	},
 	{
 		"name" : "Tangrowth",
@@ -16047,7 +16046,7 @@
 		"prevol" : "Tangela",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Electivire",
@@ -16077,7 +16076,7 @@
 		"prevol" : "Electabuzz",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Magmortar",
@@ -16107,7 +16106,7 @@
 		"prevol" : "Magmar",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Togekiss",
@@ -16137,7 +16136,7 @@
 		"prevol" : "Togetic",
 		"egg1" : "Flying",
 		"typing" : "Fairy",
-		"abils" : "Fairy / Flying",
+		"abils" : "Fairy / Flying"
 	},
 	{
 		"name" : "Yanmega",
@@ -16167,7 +16166,7 @@
 		"prevol" : "Yanma",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Flying",
+		"abils" : "Bug / Flying"
 	},
 	{
 		"name" : "Leafeon",
@@ -16197,7 +16196,7 @@
 		"prevol" : "Eevee",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Glaceon",
@@ -16227,7 +16226,7 @@
 		"prevol" : "Eevee",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ice",
+		"abils" : "Ice"
 	},
 	{
 		"name" : "Gliscor",
@@ -16257,7 +16256,7 @@
 		"prevol" : "Gligar",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Ground / Flying",
+		"abils" : "Ground / Flying"
 	},
 	{
 		"name" : "Mamoswine",
@@ -16287,7 +16286,7 @@
 		"prevol" : "Piloswine",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ice / Ground",
+		"abils" : "Ice / Ground"
 	},
 	{
 		"name" : "Porygon-Z",
@@ -16317,7 +16316,7 @@
 		"prevol" : "Porygon2",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Gallade",
@@ -16347,7 +16346,7 @@
 		"prevol" : "Kirlia",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Fighting",
+		"abils" : "Psychic / Fighting"
 	},
 	{
 		"name" : "Gallade (Mega Gallade)",
@@ -16377,7 +16376,7 @@
 		"prevol" : "Kirlia",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Fighting",
+		"abils" : "Psychic / Fighting"
 	},
 	{
 		"name" : "Probopass",
@@ -16407,7 +16406,7 @@
 		"prevol" : "Nosepass",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock / Steel",
+		"abils" : "Rock / Steel"
 	},
 	{
 		"name" : "Dusknoir",
@@ -16437,7 +16436,7 @@
 		"prevol" : "Dusclops",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost",
+		"abils" : "Ghost"
 	},
 	{
 		"name" : "Froslass",
@@ -16467,7 +16466,7 @@
 		"prevol" : "Snover",
 		"egg1" : "Fairy",
 		"typing" : "Mineral",
-		"abils" : "Ice / Ghost",
+		"abils" : "Ice / Ghost"
 	},
 	{
 		"name" : "Rotom (Fan Rotom)",
@@ -16497,7 +16496,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Electric / Flying",
+		"abils" : "Electric / Flying"
 	},
 	{
 		"name" : "Rotom (Frost Rotom)",
@@ -16527,7 +16526,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Electric / Ice",
+		"abils" : "Electric / Ice"
 	},
 	{
 		"name" : "Rotom (Heat Rotom)",
@@ -16557,7 +16556,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Electric / Fire",
+		"abils" : "Electric / Fire"
 	},
 	{
 		"name" : "Rotom (Mow Rotom)",
@@ -16587,7 +16586,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Electric / Grass",
+		"abils" : "Electric / Grass"
 	},
 	{
 		"name" : "Rotom",
@@ -16617,7 +16616,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Electric / Ghost",
+		"abils" : "Electric / Ghost"
 	},
 	{
 		"name" : "Rotom (Wash Rotom)",
@@ -16647,7 +16646,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Electric / Water",
+		"abils" : "Electric / Water"
 	},
 	{
 		"name" : "Uxie",
@@ -16677,7 +16676,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Mesprit",
@@ -16707,7 +16706,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Azelf",
@@ -16737,7 +16736,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Dialga",
@@ -16767,7 +16766,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Steel / Dragon",
+		"abils" : "Steel / Dragon"
 	},
 	{
 		"name" : "Palkia",
@@ -16797,7 +16796,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Water / Dragon",
+		"abils" : "Water / Dragon"
 	},
 	{
 		"name" : "Heatran",
@@ -16827,7 +16826,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Fire / Steel",
+		"abils" : "Fire / Steel"
 	},
 	{
 		"name" : "Regigigas",
@@ -16857,7 +16856,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Giratina (Altered Forme)",
@@ -16887,7 +16886,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Dragon",
+		"abils" : "Ghost / Dragon"
 	},
 	{
 		"name" : "Giratina (Origin Forme)",
@@ -16917,7 +16916,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Dragon",
+		"abils" : "Ghost / Dragon"
 	},
 	{
 		"name" : "Cresselia",
@@ -16947,7 +16946,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Phione",
@@ -16977,7 +16976,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Fairy",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Manaphy",
@@ -17007,7 +17006,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Fairy",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Darkrai",
@@ -17037,7 +17036,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dark",
+		"abils" : "Dark"
 	},
 	{
 		"name" : "Shaymin (Land Forme)",
@@ -17067,7 +17066,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Shaymin (Sky Forme)",
@@ -17097,7 +17096,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Grass / Flying",
+		"abils" : "Grass / Flying"
 	},
 	{
 		"name" : "Arceus (Normal)",
@@ -17127,7 +17126,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Victini",
@@ -17157,7 +17156,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Fire",
+		"abils" : "Psychic / Fire"
 	},
 	{
 		"name" : "Snivy",
@@ -17187,7 +17186,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Grass",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Servine",
@@ -17217,7 +17216,7 @@
 		"prevol" : "Snivy",
 		"egg1" : "Field",
 		"typing" : "Grass",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Serperior",
@@ -17247,7 +17246,7 @@
 		"prevol" : "Servine",
 		"egg1" : "Field",
 		"typing" : "Grass",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Tepig",
@@ -17277,7 +17276,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Pignite",
@@ -17307,7 +17306,7 @@
 		"prevol" : "Tepig",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire / Fighting",
+		"abils" : "Fire / Fighting"
 	},
 	{
 		"name" : "Emboar",
@@ -17337,7 +17336,7 @@
 		"prevol" : "Pignite",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire / Fighting",
+		"abils" : "Fire / Fighting"
 	},
 	{
 		"name" : "Oshawott",
@@ -17367,7 +17366,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Dewott",
@@ -17397,7 +17396,7 @@
 		"prevol" : "Oshawott",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Samurott",
@@ -17427,7 +17426,7 @@
 		"prevol" : "Dewott",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Patrat",
@@ -17457,7 +17456,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Watchog",
@@ -17487,7 +17486,7 @@
 		"prevol" : "Patrat",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Lillipup",
@@ -17517,7 +17516,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Herdier",
@@ -17547,7 +17546,7 @@
 		"prevol" : "Lillipup",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Stoutland",
@@ -17577,7 +17576,7 @@
 		"prevol" : "Herdier",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Purrloin",
@@ -17607,7 +17606,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark",
+		"abils" : "Dark"
 	},
 	{
 		"name" : "Liepard",
@@ -17637,7 +17636,7 @@
 		"prevol" : "Purrloin",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark",
+		"abils" : "Dark"
 	},
 	{
 		"name" : "Pansage",
@@ -17667,7 +17666,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Simisage",
@@ -17697,7 +17696,7 @@
 		"prevol" : "Pansage",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Pansear",
@@ -17727,7 +17726,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Simisear",
@@ -17757,7 +17756,7 @@
 		"prevol" : "Pansear",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Panpour",
@@ -17787,7 +17786,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Simipour",
@@ -17817,7 +17816,7 @@
 		"prevol" : "Panpour",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Munna",
@@ -17847,7 +17846,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Musharna",
@@ -17877,7 +17876,7 @@
 		"prevol" : "Munna",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Pidove",
@@ -17907,7 +17906,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Tranquill",
@@ -17937,7 +17936,7 @@
 		"prevol" : "Pidove",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Unfezant",
@@ -17967,7 +17966,7 @@
 		"prevol" : "Tranquill",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Blitzle",
@@ -17997,7 +17996,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Zebstrika",
@@ -18027,7 +18026,7 @@
 		"prevol" : "Blitzle",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Roggenrola",
@@ -18057,7 +18056,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock",
+		"abils" : "Rock"
 	},
 	{
 		"name" : "Boldore",
@@ -18087,7 +18086,7 @@
 		"prevol" : "Roggenrola",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock",
+		"abils" : "Rock"
 	},
 	{
 		"name" : "Gigalith",
@@ -18117,7 +18116,7 @@
 		"prevol" : "Boldore",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock",
+		"abils" : "Rock"
 	},
 	{
 		"name" : "Woobat",
@@ -18147,7 +18146,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Flying",
-		"abils" : "Psychic / Flying",
+		"abils" : "Psychic / Flying"
 	},
 	{
 		"name" : "Swoobat",
@@ -18177,7 +18176,7 @@
 		"prevol" : "Woobat",
 		"egg1" : "Field",
 		"typing" : "Flying",
-		"abils" : "Psychic / Flying",
+		"abils" : "Psychic / Flying"
 	},
 	{
 		"name" : "Drilbur",
@@ -18207,7 +18206,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Excadrill",
@@ -18237,7 +18236,7 @@
 		"prevol" : "Drilbur",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground / Steel",
+		"abils" : "Ground / Steel"
 	},
 	{
 		"name" : "Audino",
@@ -18267,7 +18266,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Audino (Mega Audino)",
@@ -18297,7 +18296,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Normal / Fairy",
+		"abils" : "Normal / Fairy"
 	},
 	{
 		"name" : "Timburr",
@@ -18327,7 +18326,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Gurdurr",
@@ -18357,7 +18356,7 @@
 		"prevol" : "Timburr",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Conkeldurr",
@@ -18387,7 +18386,7 @@
 		"prevol" : "Gurdurr",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Tympole",
@@ -18417,7 +18416,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Palpitoad",
@@ -18447,7 +18446,7 @@
 		"prevol" : "Tympole",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water / Ground",
+		"abils" : "Water / Ground"
 	},
 	{
 		"name" : "Seismitoad",
@@ -18477,7 +18476,7 @@
 		"prevol" : "Palpitoad",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water / Ground",
+		"abils" : "Water / Ground"
 	},
 	{
 		"name" : "Throh",
@@ -18507,7 +18506,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Sawk",
@@ -18537,7 +18536,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Sewaddle",
@@ -18567,7 +18566,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Grass",
+		"abils" : "Bug / Grass"
 	},
 	{
 		"name" : "Swadloon",
@@ -18597,7 +18596,7 @@
 		"prevol" : "Sewaddle",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Grass",
+		"abils" : "Bug / Grass"
 	},
 	{
 		"name" : "Leavanny",
@@ -18627,7 +18626,7 @@
 		"prevol" : "Swadloon",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Grass",
+		"abils" : "Bug / Grass"
 	},
 	{
 		"name" : "Venipede",
@@ -18657,7 +18656,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Poison",
+		"abils" : "Bug / Poison"
 	},
 	{
 		"name" : "Whirlipede",
@@ -18687,7 +18686,7 @@
 		"prevol" : "Venipede",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Poison",
+		"abils" : "Bug / Poison"
 	},
 	{
 		"name" : "Scolipede",
@@ -18717,7 +18716,7 @@
 		"prevol" : "Whirlipede",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Poison",
+		"abils" : "Bug / Poison"
 	},
 	{
 		"name" : "Cottonee",
@@ -18747,7 +18746,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "Fairy",
-		"abils" : "Grass / Fairy",
+		"abils" : "Grass / Fairy"
 	},
 	{
 		"name" : "Whimsicott",
@@ -18777,7 +18776,7 @@
 		"prevol" : "Cottonee",
 		"egg1" : "Grass",
 		"typing" : "Fairy",
-		"abils" : "Grass / Fairy",
+		"abils" : "Grass / Fairy"
 	},
 	{
 		"name" : "Petilil",
@@ -18807,7 +18806,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Lilligant",
@@ -18837,7 +18836,7 @@
 		"prevol" : "Petilil",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Basculin",
@@ -18867,7 +18866,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Sandile",
@@ -18897,7 +18896,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground / Dark",
+		"abils" : "Ground / Dark"
 	},
 	{
 		"name" : "Krokorok",
@@ -18927,7 +18926,7 @@
 		"prevol" : "Sandile",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground / Dark",
+		"abils" : "Ground / Dark"
 	},
 	{
 		"name" : "Krookodile",
@@ -18957,7 +18956,7 @@
 		"prevol" : "Krokorok",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground / Dark",
+		"abils" : "Ground / Dark"
 	},
 	{
 		"name" : "Darumaka",
@@ -18987,7 +18986,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Darmanitan (Standard Mode)",
@@ -19017,7 +19016,7 @@
 		"prevol" : "Darumaka",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Darmanitan (Zen Mode)",
@@ -19047,7 +19046,7 @@
 		"prevol" : "Darumaka",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire / Psychic",
+		"abils" : "Fire / Psychic"
 	},
 	{
 		"name" : "Maractus",
@@ -19077,7 +19076,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Dwebble",
@@ -19107,7 +19106,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "Mineral",
-		"abils" : "Bug / Rock",
+		"abils" : "Bug / Rock"
 	},
 	{
 		"name" : "Crustle",
@@ -19137,7 +19136,7 @@
 		"prevol" : "Dwebble",
 		"egg1" : "Bug",
 		"typing" : "Mineral",
-		"abils" : "Bug / Rock",
+		"abils" : "Bug / Rock"
 	},
 	{
 		"name" : "Scraggy",
@@ -19167,7 +19166,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Dragon",
-		"abils" : "Dark / Fighting",
+		"abils" : "Dark / Fighting"
 	},
 	{
 		"name" : "Scrafty",
@@ -19197,7 +19196,7 @@
 		"prevol" : "Scraggy",
 		"egg1" : "Field",
 		"typing" : "Dragon",
-		"abils" : "Dark / Fighting",
+		"abils" : "Dark / Fighting"
 	},
 	{
 		"name" : "Sigilyph",
@@ -19227,7 +19226,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Flying",
+		"abils" : "Psychic / Flying"
 	},
 	{
 		"name" : "Yamask",
@@ -19257,7 +19256,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "Amorphous",
-		"abils" : "Ghost",
+		"abils" : "Ghost"
 	},
 	{
 		"name" : "Cofagrigus",
@@ -19287,7 +19286,7 @@
 		"prevol" : "Yamask",
 		"egg1" : "Mineral",
 		"typing" : "Amorphous",
-		"abils" : "Ghost",
+		"abils" : "Ghost"
 	},
 	{
 		"name" : "Tirtouga",
@@ -19317,7 +19316,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Water 3",
-		"abils" : "Water / Rock",
+		"abils" : "Water / Rock"
 	},
 	{
 		"name" : "Carracosta",
@@ -19347,7 +19346,7 @@
 		"prevol" : "Tirtouga",
 		"egg1" : "Water 1",
 		"typing" : "Water 3",
-		"abils" : "Water / Rock",
+		"abils" : "Water / Rock"
 	},
 	{
 		"name" : "Archen",
@@ -19377,7 +19376,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "Water 3",
-		"abils" : "Rock / Flying",
+		"abils" : "Rock / Flying"
 	},
 	{
 		"name" : "Archeops",
@@ -19407,7 +19406,7 @@
 		"prevol" : "Archen",
 		"egg1" : "Flying",
 		"typing" : "Water 3",
-		"abils" : "Rock / Flying",
+		"abils" : "Rock / Flying"
 	},
 	{
 		"name" : "Trubbish",
@@ -19437,7 +19436,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Garbodor",
@@ -19467,7 +19466,7 @@
 		"prevol" : "Trubbish",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Poison",
+		"abils" : "Poison"
 	},
 	{
 		"name" : "Zorua",
@@ -19497,7 +19496,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark",
+		"abils" : "Dark"
 	},
 	{
 		"name" : "Zoroark",
@@ -19527,7 +19526,7 @@
 		"prevol" : "Zorua",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Dark",
+		"abils" : "Dark"
 	},
 	{
 		"name" : "Minccino",
@@ -19557,7 +19556,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Cinccino",
@@ -19587,7 +19586,7 @@
 		"prevol" : "Minccino",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Gothita",
@@ -19617,7 +19616,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Gothorita",
@@ -19647,7 +19646,7 @@
 		"prevol" : "Gothita",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Gothitelle",
@@ -19677,7 +19676,7 @@
 		"prevol" : "Gothorita",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Solosis",
@@ -19707,7 +19706,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Duosion",
@@ -19737,7 +19736,7 @@
 		"prevol" : "Solosis",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Reuniclus",
@@ -19767,7 +19766,7 @@
 		"prevol" : "Duosion",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Ducklett",
@@ -19797,7 +19796,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Flying",
-		"abils" : "Water / Flying",
+		"abils" : "Water / Flying"
 	},
 	{
 		"name" : "Swanna",
@@ -19827,7 +19826,7 @@
 		"prevol" : "Ducklett",
 		"egg1" : "Water 1",
 		"typing" : "Flying",
-		"abils" : "Water / Flying",
+		"abils" : "Water / Flying"
 	},
 	{
 		"name" : "Vanillite",
@@ -19857,7 +19856,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Ice",
+		"abils" : "Ice"
 	},
 	{
 		"name" : "Vanillish",
@@ -19887,7 +19886,7 @@
 		"prevol" : "Vanillite",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Ice",
+		"abils" : "Ice"
 	},
 	{
 		"name" : "Vanilluxe",
@@ -19917,7 +19916,7 @@
 		"prevol" : "Vanillish",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Ice",
+		"abils" : "Ice"
 	},
 	{
 		"name" : "Deerling",
@@ -19947,7 +19946,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal / Grass",
+		"abils" : "Normal / Grass"
 	},
 	{
 		"name" : "Sawsbuck",
@@ -19977,7 +19976,7 @@
 		"prevol" : "Deerling",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal / Grass",
+		"abils" : "Normal / Grass"
 	},
 	{
 		"name" : "Emolga",
@@ -20007,7 +20006,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Electric / Flying",
+		"abils" : "Electric / Flying"
 	},
 	{
 		"name" : "Karrablast",
@@ -20037,7 +20036,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Escavalier",
@@ -20067,7 +20066,7 @@
 		"prevol" : "Karrablast",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Steel",
+		"abils" : "Bug / Steel"
 	},
 	{
 		"name" : "Foongus",
@@ -20097,7 +20096,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Amoonguss",
@@ -20127,7 +20126,7 @@
 		"prevol" : "Foongus",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass / Poison",
+		"abils" : "Grass / Poison"
 	},
 	{
 		"name" : "Frillish",
@@ -20157,7 +20156,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Water / Ghost",
+		"abils" : "Water / Ghost"
 	},
 	{
 		"name" : "Jellicent",
@@ -20187,7 +20186,7 @@
 		"prevol" : "Frillish",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Water / Ghost",
+		"abils" : "Water / Ghost"
 	},
 	{
 		"name" : "Alomomola",
@@ -20217,7 +20216,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Water 2",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Joltik",
@@ -20247,7 +20246,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Electric",
+		"abils" : "Bug / Electric"
 	},
 	{
 		"name" : "Galvantula",
@@ -20277,7 +20276,7 @@
 		"prevol" : "Joltik",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Electric",
+		"abils" : "Bug / Electric"
 	},
 	{
 		"name" : "Ferroseed",
@@ -20307,7 +20306,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "Mineral",
-		"abils" : "Grass / Steel",
+		"abils" : "Grass / Steel"
 	},
 	{
 		"name" : "Ferrothorn",
@@ -20337,7 +20336,7 @@
 		"prevol" : "Ferroseed",
 		"egg1" : "Grass",
 		"typing" : "Mineral",
-		"abils" : "Grass / Steel",
+		"abils" : "Grass / Steel"
 	},
 	{
 		"name" : "Klink",
@@ -20367,7 +20366,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel",
+		"abils" : "Steel"
 	},
 	{
 		"name" : "Klang",
@@ -20397,7 +20396,7 @@
 		"prevol" : "Klink",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel",
+		"abils" : "Steel"
 	},
 	{
 		"name" : "Klinklang",
@@ -20427,7 +20426,7 @@
 		"prevol" : "Klang",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel",
+		"abils" : "Steel"
 	},
 	{
 		"name" : "Tynamo",
@@ -20457,7 +20456,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Eelektrik",
@@ -20487,7 +20486,7 @@
 		"prevol" : "Tynamo",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Eelektross",
@@ -20517,7 +20516,7 @@
 		"prevol" : "Eelektrik",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Elgyem",
@@ -20547,7 +20546,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Beheeyem",
@@ -20577,7 +20576,7 @@
 		"prevol" : "Elgyem",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Litwick",
@@ -20607,7 +20606,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Fire",
+		"abils" : "Ghost / Fire"
 	},
 	{
 		"name" : "Lampent",
@@ -20637,7 +20636,7 @@
 		"prevol" : "Litwick",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Fire",
+		"abils" : "Ghost / Fire"
 	},
 	{
 		"name" : "Chandelure",
@@ -20667,7 +20666,7 @@
 		"prevol" : "Lampent",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Fire",
+		"abils" : "Ghost / Fire"
 	},
 	{
 		"name" : "Axew",
@@ -20697,7 +20696,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Dragon",
+		"abils" : "Dragon"
 	},
 	{
 		"name" : "Fraxure",
@@ -20727,7 +20726,7 @@
 		"prevol" : "Axew",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Dragon",
+		"abils" : "Dragon"
 	},
 	{
 		"name" : "Haxorus",
@@ -20757,7 +20756,7 @@
 		"prevol" : "Fraxure",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Dragon",
+		"abils" : "Dragon"
 	},
 	{
 		"name" : "Cubchoo",
@@ -20787,7 +20786,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ice",
+		"abils" : "Ice"
 	},
 	{
 		"name" : "Beartic",
@@ -20817,7 +20816,7 @@
 		"prevol" : "Cubchoo",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ice",
+		"abils" : "Ice"
 	},
 	{
 		"name" : "Cryogonal",
@@ -20847,7 +20846,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Ice",
+		"abils" : "Ice"
 	},
 	{
 		"name" : "Shelmet",
@@ -20877,7 +20876,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Accelgor",
@@ -20907,7 +20906,7 @@
 		"prevol" : "Shelmet",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Stunfisk",
@@ -20937,7 +20936,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Amorphous",
-		"abils" : "Ground / Electric",
+		"abils" : "Ground / Electric"
 	},
 	{
 		"name" : "Mienfoo",
@@ -20967,7 +20966,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Human-Like",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Mienshao",
@@ -20997,7 +20996,7 @@
 		"prevol" : "Mienfoo",
 		"egg1" : "Field",
 		"typing" : "Human-Like",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Druddigon",
@@ -21027,7 +21026,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Dragon",
 		"typing" : "Monster",
-		"abils" : "Dragon",
+		"abils" : "Dragon"
 	},
 	{
 		"name" : "Golett",
@@ -21057,7 +21056,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Ground / Ghost",
+		"abils" : "Ground / Ghost"
 	},
 	{
 		"name" : "Golurk",
@@ -21087,7 +21086,7 @@
 		"prevol" : "Golett",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Ground / Ghost",
+		"abils" : "Ground / Ghost"
 	},
 	{
 		"name" : "Pawniard",
@@ -21117,7 +21116,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Dark / Steel",
+		"abils" : "Dark / Steel"
 	},
 	{
 		"name" : "Bisharp",
@@ -21147,7 +21146,7 @@
 		"prevol" : "Pawniard",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Dark / Steel",
+		"abils" : "Dark / Steel"
 	},
 	{
 		"name" : "Bouffalant",
@@ -21177,7 +21176,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Rufflet",
@@ -21207,7 +21206,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Braviary",
@@ -21237,7 +21236,7 @@
 		"prevol" : "Rufflet",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Vullaby",
@@ -21267,7 +21266,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Dark / Flying",
+		"abils" : "Dark / Flying"
 	},
 	{
 		"name" : "Mandibuzz",
@@ -21297,7 +21296,7 @@
 		"prevol" : "Vullaby",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Dark / Flying",
+		"abils" : "Dark / Flying"
 	},
 	{
 		"name" : "Heatmor",
@@ -21327,7 +21326,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Durant",
@@ -21357,7 +21356,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Steel",
+		"abils" : "Bug / Steel"
 	},
 	{
 		"name" : "Deino",
@@ -21387,7 +21386,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Dragon",
 		"typing" : "#N/A",
-		"abils" : "Dark / Dragon",
+		"abils" : "Dark / Dragon"
 	},
 	{
 		"name" : "Zweilous",
@@ -21417,7 +21416,7 @@
 		"prevol" : "Deino",
 		"egg1" : "Dragon",
 		"typing" : "#N/A",
-		"abils" : "Dark / Dragon",
+		"abils" : "Dark / Dragon"
 	},
 	{
 		"name" : "Hydreigon",
@@ -21447,7 +21446,7 @@
 		"prevol" : "Zweilous",
 		"egg1" : "Dragon",
 		"typing" : "#N/A",
-		"abils" : "Dark / Dragon",
+		"abils" : "Dark / Dragon"
 	},
 	{
 		"name" : "Larvesta",
@@ -21477,7 +21476,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Fire",
+		"abils" : "Bug / Fire"
 	},
 	{
 		"name" : "Volcarona",
@@ -21507,7 +21506,7 @@
 		"prevol" : "Larvesta",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Fire",
+		"abils" : "Bug / Fire"
 	},
 	{
 		"name" : "Cobalion",
@@ -21537,7 +21536,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Steel / Fighting",
+		"abils" : "Steel / Fighting"
 	},
 	{
 		"name" : "Terrakion",
@@ -21567,7 +21566,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Rock / Fighting",
+		"abils" : "Rock / Fighting"
 	},
 	{
 		"name" : "Virizion",
@@ -21597,7 +21596,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Grass / Fighting",
+		"abils" : "Grass / Fighting"
 	},
 	{
 		"name" : "Tornadus (Incarnate Forme)",
@@ -21627,7 +21626,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Flying",
+		"abils" : "Flying"
 	},
 	{
 		"name" : "Tornadus (Therian Forme)",
@@ -21657,7 +21656,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Flying",
+		"abils" : "Flying"
 	},
 	{
 		"name" : "Thundurus (Incarnate Forme)",
@@ -21687,7 +21686,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Electric / Flying",
+		"abils" : "Electric / Flying"
 	},
 	{
 		"name" : "Thundurus (Therian Forme)",
@@ -21717,7 +21716,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Electric / Flying",
+		"abils" : "Electric / Flying"
 	},
 	{
 		"name" : "Reshiram",
@@ -21747,7 +21746,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Fire",
+		"abils" : "Dragon / Fire"
 	},
 	{
 		"name" : "Zekrom",
@@ -21777,7 +21776,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Electric",
+		"abils" : "Dragon / Electric"
 	},
 	{
 		"name" : "Landorus (Incarnate Forme)",
@@ -21807,7 +21806,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Ground / Flying",
+		"abils" : "Ground / Flying"
 	},
 	{
 		"name" : "Landorus (Therian Forme)",
@@ -21837,7 +21836,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Ground / Flying",
+		"abils" : "Ground / Flying"
 	},
 	{
 		"name" : "Kyurem (Kyurem)",
@@ -21867,7 +21866,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Ice",
+		"abils" : "Dragon / Ice"
 	},
 	{
 		"name" : "Kyurem (Black Kyurem)",
@@ -21897,7 +21896,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Ice",
+		"abils" : "Dragon / Ice"
 	},
 	{
 		"name" : "Kyurem (White Kyurem)",
@@ -21927,7 +21926,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Ice",
+		"abils" : "Dragon / Ice"
 	},
 	{
 		"name" : "Keldeo (Ordinary Form)",
@@ -21957,7 +21956,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Water / Fighting",
+		"abils" : "Water / Fighting"
 	},
 	{
 		"name" : "Keldeo (Resolute Form)",
@@ -21987,7 +21986,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Water / Fighting",
+		"abils" : "Water / Fighting"
 	},
 	{
 		"name" : "Meloetta (Aria Forme)",
@@ -22017,7 +22016,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Normal / Psychic",
+		"abils" : "Normal / Psychic"
 	},
 	{
 		"name" : "Meloetta (Pirouette Forme)",
@@ -22047,7 +22046,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Normal / Fighting",
+		"abils" : "Normal / Fighting"
 	},
 	{
 		"name" : "Genesect",
@@ -22077,7 +22076,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Bug / Steel",
+		"abils" : "Bug / Steel"
 	},
 	{
 		"name" : "Chespin",
@@ -22107,7 +22106,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Quilladin",
@@ -22137,7 +22136,7 @@
 		"prevol" : "Chespin",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Chesnaught",
@@ -22167,7 +22166,7 @@
 		"prevol" : "Quilladin",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Grass / Fighting",
+		"abils" : "Grass / Fighting"
 	},
 	{
 		"name" : "Fennekin",
@@ -22197,7 +22196,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Braixen",
@@ -22227,7 +22226,7 @@
 		"prevol" : "Fennekin",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Delphox",
@@ -22257,7 +22256,7 @@
 		"prevol" : "Braixen",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire / Psychic",
+		"abils" : "Fire / Psychic"
 	},
 	{
 		"name" : "Froakie",
@@ -22287,7 +22286,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Frogadier",
@@ -22317,7 +22316,7 @@
 		"prevol" : "Froakie",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Greninja",
@@ -22347,7 +22346,7 @@
 		"prevol" : "Frogadier",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water / Dark",
+		"abils" : "Water / Dark"
 	},
 	{
 		"name" : "Greninja (Ash-Greninja)",
@@ -22377,7 +22376,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Water / Dark",
+		"abils" : "Water / Dark"
 	},
 	{
 		"name" : "Bunnelby",
@@ -22407,7 +22406,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Diggersby",
@@ -22437,7 +22436,7 @@
 		"prevol" : "Bunnelby",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal / Ground",
+		"abils" : "Normal / Ground"
 	},
 	{
 		"name" : "Fletchling",
@@ -22467,7 +22466,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Fletchinder",
@@ -22497,7 +22496,7 @@
 		"prevol" : "Fletchling",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Fire / Flying",
+		"abils" : "Fire / Flying"
 	},
 	{
 		"name" : "Talonflame",
@@ -22527,7 +22526,7 @@
 		"prevol" : "Fletchinder",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Fire / Flying",
+		"abils" : "Fire / Flying"
 	},
 	{
 		"name" : "Scatterbug",
@@ -22557,7 +22556,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Spewpa",
@@ -22587,7 +22586,7 @@
 		"prevol" : "Scatterbug",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Vivillon",
@@ -22617,7 +22616,7 @@
 		"prevol" : "Spewpa",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Flying",
+		"abils" : "Bug / Flying"
 	},
 	{
 		"name" : "Litleo",
@@ -22647,7 +22646,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire / Normal",
+		"abils" : "Fire / Normal"
 	},
 	{
 		"name" : "Pyroar",
@@ -22677,7 +22676,7 @@
 		"prevol" : "Litleo",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire / Normal",
+		"abils" : "Fire / Normal"
 	},
 	{
 		"name" : "Flabébé",
@@ -22707,7 +22706,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Floette",
@@ -22737,7 +22736,7 @@
 		"prevol" : "Flabébé",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Florges",
@@ -22767,7 +22766,7 @@
 		"prevol" : "Floette",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Skiddo",
@@ -22797,7 +22796,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Gogoat",
@@ -22827,7 +22826,7 @@
 		"prevol" : "Skiddo",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Pancham",
@@ -22857,7 +22856,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Human-Like",
-		"abils" : "Dark",
+		"abils" : "Dark"
 	},
 	{
 		"name" : "Pangoro",
@@ -22887,7 +22886,7 @@
 		"prevol" : "Pancham",
 		"egg1" : "Field",
 		"typing" : "Human-Like",
-		"abils" : "Dark / Fighting",
+		"abils" : "Dark / Fighting"
 	},
 	{
 		"name" : "Furfrou",
@@ -22917,7 +22916,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Espurr",
@@ -22947,7 +22946,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Meowstic (Female)",
@@ -22977,7 +22976,7 @@
 		"prevol" : "Espurr",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Meowstic (Male)",
@@ -23007,7 +23006,7 @@
 		"prevol" : "Espurr",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Honedge",
@@ -23037,7 +23036,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel / Ghost",
+		"abils" : "Steel / Ghost"
 	},
 	{
 		"name" : "Doublade",
@@ -23067,7 +23066,7 @@
 		"prevol" : "Honedge",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel / Ghost",
+		"abils" : "Steel / Ghost"
 	},
 	{
 		"name" : "Aegislash (Shield Forme)",
@@ -23097,7 +23096,7 @@
 		"prevol" : "Doublade",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel / Ghost",
+		"abils" : "Steel / Ghost"
 	},
 	{
 		"name" : "Aegislash (Blade Forme)",
@@ -23127,7 +23126,7 @@
 		"prevol" : "Doublade",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel / Ghost",
+		"abils" : "Steel / Ghost"
 	},
 	{
 		"name" : "Spritzee",
@@ -23157,7 +23156,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Aromatisse",
@@ -23187,7 +23186,7 @@
 		"prevol" : "Spritzee",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Swirlix",
@@ -23217,7 +23216,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Slurpuff",
@@ -23247,7 +23246,7 @@
 		"prevol" : "Swirlix",
 		"egg1" : "Fairy",
 		"typing" : "#N/A",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Inkay",
@@ -23277,7 +23276,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Water 2",
-		"abils" : "Dark / Psychic",
+		"abils" : "Dark / Psychic"
 	},
 	{
 		"name" : "Malamar",
@@ -23307,7 +23306,7 @@
 		"prevol" : "Inkay",
 		"egg1" : "Water 1",
 		"typing" : "Water 2",
-		"abils" : "Dark / Psychic",
+		"abils" : "Dark / Psychic"
 	},
 	{
 		"name" : "Binacle",
@@ -23337,7 +23336,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Rock / Water",
+		"abils" : "Rock / Water"
 	},
 	{
 		"name" : "Barbaracle",
@@ -23367,7 +23366,7 @@
 		"prevol" : "Binacle",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Rock / Water",
+		"abils" : "Rock / Water"
 	},
 	{
 		"name" : "Skrelp",
@@ -23397,7 +23396,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Dragon",
-		"abils" : "Poison / Water",
+		"abils" : "Poison / Water"
 	},
 	{
 		"name" : "Dragalge",
@@ -23427,7 +23426,7 @@
 		"prevol" : "Skrelp",
 		"egg1" : "Water 1",
 		"typing" : "Dragon",
-		"abils" : "Poison / Dragon",
+		"abils" : "Poison / Dragon"
 	},
 	{
 		"name" : "Clauncher",
@@ -23457,7 +23456,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Water 3",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Clawitzer",
@@ -23487,7 +23486,7 @@
 		"prevol" : "Clauncher",
 		"egg1" : "Water 1",
 		"typing" : "Water 3",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Helioptile",
@@ -23517,7 +23516,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Electric / Normal",
+		"abils" : "Electric / Normal"
 	},
 	{
 		"name" : "Heliolisk",
@@ -23547,7 +23546,7 @@
 		"prevol" : "Helioptile",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Electric / Normal",
+		"abils" : "Electric / Normal"
 	},
 	{
 		"name" : "Tyrunt",
@@ -23577,7 +23576,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Rock / Dragon",
+		"abils" : "Rock / Dragon"
 	},
 	{
 		"name" : "Tyrantrum",
@@ -23607,7 +23606,7 @@
 		"prevol" : "Tyrunt",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Rock / Dragon",
+		"abils" : "Rock / Dragon"
 	},
 	{
 		"name" : "Amaura",
@@ -23637,7 +23636,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Rock / Ice",
+		"abils" : "Rock / Ice"
 	},
 	{
 		"name" : "Aurorus",
@@ -23667,7 +23666,7 @@
 		"prevol" : "Amaura",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Rock / Ice",
+		"abils" : "Rock / Ice"
 	},
 	{
 		"name" : "Sylveon",
@@ -23697,7 +23696,7 @@
 		"prevol" : "Eevee",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Hawlucha",
@@ -23727,7 +23726,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Human-Like",
 		"typing" : "#N/A",
-		"abils" : "Fighting / Flying",
+		"abils" : "Fighting / Flying"
 	},
 	{
 		"name" : "Dedenne",
@@ -23757,7 +23756,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Fairy",
-		"abils" : "Electric / Fairy",
+		"abils" : "Electric / Fairy"
 	},
 	{
 		"name" : "Carbink",
@@ -23787,7 +23786,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Fairy",
 		"typing" : "Mineral",
-		"abils" : "Rock / Fairy",
+		"abils" : "Rock / Fairy"
 	},
 	{
 		"name" : "Goomy",
@@ -23817,7 +23816,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Dragon",
 		"typing" : "#N/A",
-		"abils" : "Dragon",
+		"abils" : "Dragon"
 	},
 	{
 		"name" : "Sliggoo",
@@ -23847,7 +23846,7 @@
 		"prevol" : "Goomy",
 		"egg1" : "Dragon",
 		"typing" : "#N/A",
-		"abils" : "Dragon",
+		"abils" : "Dragon"
 	},
 	{
 		"name" : "Goodra",
@@ -23877,7 +23876,7 @@
 		"prevol" : "Sliggoo",
 		"egg1" : "Dragon",
 		"typing" : "#N/A",
-		"abils" : "Dragon",
+		"abils" : "Dragon"
 	},
 	{
 		"name" : "Klefki",
@@ -23907,7 +23906,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Steel / Fairy",
+		"abils" : "Steel / Fairy"
 	},
 	{
 		"name" : "Phantump",
@@ -23937,7 +23936,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "Amorphous",
-		"abils" : "Ghost / Grass",
+		"abils" : "Ghost / Grass"
 	},
 	{
 		"name" : "Trevenant",
@@ -23967,7 +23966,7 @@
 		"prevol" : "Phantump",
 		"egg1" : "Grass",
 		"typing" : "Amorphous",
-		"abils" : "Ghost / Grass",
+		"abils" : "Ghost / Grass"
 	},
 	{
 		"name" : "Pumpkaboo (Average Size)",
@@ -23997,7 +23996,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Grass",
+		"abils" : "Ghost / Grass"
 	},
 	{
 		"name" : "Pumpkaboo (Small Size)",
@@ -24027,7 +24026,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Grass",
+		"abils" : "Ghost / Grass"
 	},
 	{
 		"name" : "Pumpkaboo (Large Size)",
@@ -24057,7 +24056,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Grass",
+		"abils" : "Ghost / Grass"
 	},
 	{
 		"name" : "Pumpkaboo (Super Size)",
@@ -24087,7 +24086,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Grass",
+		"abils" : "Ghost / Grass"
 	},
 	{
 		"name" : "Gourgeist (Average Size)",
@@ -24117,7 +24116,7 @@
 		"prevol" : "Pumpkaboo (Average Size)",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Grass",
+		"abils" : "Ghost / Grass"
 	},
 	{
 		"name" : "Gourgeist (Small Size)",
@@ -24147,7 +24146,7 @@
 		"prevol" : "Pumpkaboo (Small Size)",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Grass",
+		"abils" : "Ghost / Grass"
 	},
 	{
 		"name" : "Gourgeist (Large Size)",
@@ -24177,7 +24176,7 @@
 		"prevol" : "Pumpkaboo (Large Size)",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Grass",
+		"abils" : "Ghost / Grass"
 	},
 	{
 		"name" : "Gourgeist (Super Size)",
@@ -24207,7 +24206,7 @@
 		"prevol" : "Pumpkaboo (Super Size)",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Grass",
+		"abils" : "Ghost / Grass"
 	},
 	{
 		"name" : "Bergmite",
@@ -24237,7 +24236,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Ice",
+		"abils" : "Ice"
 	},
 	{
 		"name" : "Avalugg",
@@ -24267,7 +24266,7 @@
 		"prevol" : "Bergmite",
 		"egg1" : "Monster",
 		"typing" : "#N/A",
-		"abils" : "Ice",
+		"abils" : "Ice"
 	},
 	{
 		"name" : "Noibat",
@@ -24297,7 +24296,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Flying / Dragon",
+		"abils" : "Flying / Dragon"
 	},
 	{
 		"name" : "Noivern",
@@ -24327,7 +24326,7 @@
 		"prevol" : "Noibat",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Flying / Dragon",
+		"abils" : "Flying / Dragon"
 	},
 	{
 		"name" : "Xerneas",
@@ -24357,7 +24356,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Yveltal",
@@ -24387,7 +24386,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dark / Flying",
+		"abils" : "Dark / Flying"
 	},
 	{
 		"name" : "Zygarde (10% Forme)",
@@ -24417,7 +24416,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Ground",
+		"abils" : "Dragon / Ground"
 	},
 	{
 		"name" : "Zygarde (50% Forme)",
@@ -24447,7 +24446,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Ground",
+		"abils" : "Dragon / Ground"
 	},
 	{
 		"name" : "Zygarde (Complete Forme)",
@@ -24477,7 +24476,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Ground",
+		"abils" : "Dragon / Ground"
 	},
 	{
 		"name" : "Diancie",
@@ -24507,7 +24506,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Rock / Fairy",
+		"abils" : "Rock / Fairy"
 	},
 	{
 		"name" : "Diancie (Mega Diancie)",
@@ -24537,7 +24536,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Rock / Fairy",
+		"abils" : "Rock / Fairy"
 	},
 	{
 		"name" : "Hoopa (Hoopa Confined)",
@@ -24567,7 +24566,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Ghost",
+		"abils" : "Psychic / Ghost"
 	},
 	{
 		"name" : "Hoopa (Hoopa Unbound)",
@@ -24597,7 +24596,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Dark",
+		"abils" : "Psychic / Dark"
 	},
 	{
 		"name" : "Volcanion",
@@ -24627,7 +24626,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Fire / Water",
+		"abils" : "Fire / Water"
 	},
 	{
 		"name" : "Rowlet",
@@ -24657,7 +24656,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Grass / Flying",
+		"abils" : "Grass / Flying"
 	},
 	{
 		"name" : "Dartrix",
@@ -24687,7 +24686,7 @@
 		"prevol" : "Rowlet",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Grass / Flying",
+		"abils" : "Grass / Flying"
 	},
 	{
 		"name" : "Decidueye",
@@ -24717,7 +24716,7 @@
 		"prevol" : "Dartrix",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Grass / Ghost",
+		"abils" : "Grass / Ghost"
 	},
 	{
 		"name" : "Litten",
@@ -24747,7 +24746,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Torracat",
@@ -24777,7 +24776,7 @@
 		"prevol" : "Litten",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire",
+		"abils" : "Fire"
 	},
 	{
 		"name" : "Incineroar",
@@ -24807,7 +24806,7 @@
 		"prevol" : "Torracat",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fire / Dark",
+		"abils" : "Fire / Dark"
 	},
 	{
 		"name" : "Popplio",
@@ -24837,7 +24836,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Brionne",
@@ -24867,7 +24866,7 @@
 		"prevol" : "Popplio",
 		"egg1" : "Water 1",
 		"typing" : "Field",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Primarina",
@@ -24897,7 +24896,7 @@
 		"prevol" : "Brionne",
 		"egg1" : "Water 2",
 		"typing" : "Field",
-		"abils" : "Water / Fairy",
+		"abils" : "Water / Fairy"
 	},
 	{
 		"name" : "Pikipek",
@@ -24927,7 +24926,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Trumbeak",
@@ -24957,7 +24956,7 @@
 		"prevol" : "Pikipek",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Toucannon",
@@ -24987,7 +24986,7 @@
 		"prevol" : "Trumbeak",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Normal / Flying",
+		"abils" : "Normal / Flying"
 	},
 	{
 		"name" : "Yungoos",
@@ -25017,7 +25016,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Gumshoos",
@@ -25047,7 +25046,7 @@
 		"prevol" : "Yungoos",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Grubbin",
@@ -25077,7 +25076,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug",
+		"abils" : "Bug"
 	},
 	{
 		"name" : "Charjabug",
@@ -25107,7 +25106,7 @@
 		"prevol" : "Grubbin",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Electric",
+		"abils" : "Bug / Electric"
 	},
 	{
 		"name" : "Vikavolt",
@@ -25137,7 +25136,7 @@
 		"prevol" : "Charjabug",
 		"egg1" : "Bug",
 		"typing" : "#N/A",
-		"abils" : "Bug / Electric",
+		"abils" : "Bug / Electric"
 	},
 	{
 		"name" : "Crabrawler",
@@ -25167,7 +25166,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 3",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Crabominable",
@@ -25197,7 +25196,7 @@
 		"prevol" : "Crabrawler",
 		"egg1" : "Water 4",
 		"typing" : "#N/A",
-		"abils" : "Fighting / Ice",
+		"abils" : "Fighting / Ice"
 	},
 	{
 		"name" : "Oricorio (Baile Style)",
@@ -25227,7 +25226,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Fire / Flying",
+		"abils" : "Fire / Flying"
 	},
 	{
 		"name" : "Oricorio (Pa’u Style)",
@@ -25257,7 +25256,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Flying",
+		"abils" : "Psychic / Flying"
 	},
 	{
 		"name" : "Oricorio (Pom-Pom Style)",
@@ -25287,7 +25286,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Electric / Flying",
+		"abils" : "Electric / Flying"
 	},
 	{
 		"name" : "Oricorio (Sensu Style)",
@@ -25317,7 +25316,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Flying",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Flying",
+		"abils" : "Ghost / Flying"
 	},
 	{
 		"name" : "Cutiefly",
@@ -25347,7 +25346,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "Fairy",
-		"abils" : "Bug / Fairy",
+		"abils" : "Bug / Fairy"
 	},
 	{
 		"name" : "Ribombee",
@@ -25377,7 +25376,7 @@
 		"prevol" : "Cutiefly",
 		"egg1" : "Bug",
 		"typing" : "Fairy",
-		"abils" : "Bug / Fairy",
+		"abils" : "Bug / Fairy"
 	},
 	{
 		"name" : "Rockruff",
@@ -25407,7 +25406,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Rock",
+		"abils" : "Rock"
 	},
 	{
 		"name" : "Lycanroc (Midday Form)",
@@ -25437,7 +25436,7 @@
 		"prevol" : "Rockruff",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Rock",
+		"abils" : "Rock"
 	},
 	{
 		"name" : "Lycanroc (Midnight Form)",
@@ -25467,7 +25466,7 @@
 		"prevol" : "Rockruff",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Rock",
+		"abils" : "Rock"
 	},
 	{
 		"name" : "Wishiwashi (School Form)",
@@ -25497,7 +25496,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Wishiwashi (Solo Form)",
@@ -25527,7 +25526,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Mareanie",
@@ -25557,7 +25556,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Poison / Water",
+		"abils" : "Poison / Water"
 	},
 	{
 		"name" : "Toxapex",
@@ -25587,7 +25586,7 @@
 		"prevol" : "Mareanie",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Poison / Water",
+		"abils" : "Poison / Water"
 	},
 	{
 		"name" : "Mudbray",
@@ -25617,7 +25616,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Mudsdale",
@@ -25647,7 +25646,7 @@
 		"prevol" : "Mudbray",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Ground",
+		"abils" : "Ground"
 	},
 	{
 		"name" : "Dewpider",
@@ -25677,7 +25676,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "Bug",
-		"abils" : "Water / Bug",
+		"abils" : "Water / Bug"
 	},
 	{
 		"name" : "Araquanid",
@@ -25707,7 +25706,7 @@
 		"prevol" : "Dewpider",
 		"egg1" : "Water 2",
 		"typing" : "Bug",
-		"abils" : "Water / Bug",
+		"abils" : "Water / Bug"
 	},
 	{
 		"name" : "Fomantis",
@@ -25737,7 +25736,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Lurantis",
@@ -25767,7 +25766,7 @@
 		"prevol" : "Fomantis",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Morelull",
@@ -25797,7 +25796,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass / Fairy",
+		"abils" : "Grass / Fairy"
 	},
 	{
 		"name" : "Shiinotic",
@@ -25827,7 +25826,7 @@
 		"prevol" : "Morelull",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass / Fairy",
+		"abils" : "Grass / Fairy"
 	},
 	{
 		"name" : "Salandit",
@@ -25857,7 +25856,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Poison / Fire",
+		"abils" : "Poison / Fire"
 	},
 	{
 		"name" : "Salazzle",
@@ -25887,7 +25886,7 @@
 		"prevol" : "Salandit",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Poison / Fire",
+		"abils" : "Poison / Fire"
 	},
 	{
 		"name" : "Stufful",
@@ -25917,7 +25916,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal / Fighting",
+		"abils" : "Normal / Fighting"
 	},
 	{
 		"name" : "Bewear",
@@ -25947,7 +25946,7 @@
 		"prevol" : "Stufful",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal / Fighting",
+		"abils" : "Normal / Fighting"
 	},
 	{
 		"name" : "Bounsweet",
@@ -25977,7 +25976,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Steenee",
@@ -26007,7 +26006,7 @@
 		"prevol" : "Bounsweet",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Tsareena",
@@ -26037,7 +26036,7 @@
 		"prevol" : "Steenee",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Grass",
+		"abils" : "Grass"
 	},
 	{
 		"name" : "Comfey",
@@ -26067,7 +26066,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Grass",
 		"typing" : "#N/A",
-		"abils" : "Fairy",
+		"abils" : "Fairy"
 	},
 	{
 		"name" : "Oranguru",
@@ -26097,7 +26096,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal / Psychic",
+		"abils" : "Normal / Psychic"
 	},
 	{
 		"name" : "Passimian",
@@ -26127,7 +26126,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Fighting",
+		"abils" : "Fighting"
 	},
 	{
 		"name" : "Wimpod",
@@ -26157,7 +26156,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Bug",
 		"typing" : "Water 3",
-		"abils" : "Bug / Water",
+		"abils" : "Bug / Water"
 	},
 	{
 		"name" : "Golisopod",
@@ -26187,7 +26186,7 @@
 		"prevol" : "Wimpod",
 		"egg1" : "Bug",
 		"typing" : "Water 3",
-		"abils" : "Bug / Water",
+		"abils" : "Bug / Water"
 	},
 	{
 		"name" : "Sandygast",
@@ -26217,7 +26216,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Ground",
+		"abils" : "Ghost / Ground"
 	},
 	{
 		"name" : "Palossand",
@@ -26247,7 +26246,7 @@
 		"prevol" : "Sandygast",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Ground",
+		"abils" : "Ghost / Ground"
 	},
 	{
 		"name" : "Pyukumuku",
@@ -26277,7 +26276,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 1",
 		"typing" : "#N/A",
-		"abils" : "Water",
+		"abils" : "Water"
 	},
 	{
 		"name" : "Type: Null",
@@ -26307,7 +26306,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Silvally (Type: Normal)",
@@ -26337,7 +26336,7 @@
 		"prevol" : "Type: Null",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Minior (Core)",
@@ -26367,7 +26366,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock / Flying",
+		"abils" : "Rock / Flying"
 	},
 	{
 		"name" : "Minior (Meteor Form)",
@@ -26397,7 +26396,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Rock / Flying",
+		"abils" : "Rock / Flying"
 	},
 	{
 		"name" : "Komala",
@@ -26427,7 +26426,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "#N/A",
-		"abils" : "Normal",
+		"abils" : "Normal"
 	},
 	{
 		"name" : "Turtonator",
@@ -26457,7 +26456,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Fire / Dragon",
+		"abils" : "Fire / Dragon"
 	},
 	{
 		"name" : "Togedemaru",
@@ -26487,7 +26486,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Field",
 		"typing" : "Fairy",
-		"abils" : "Electric / Steel",
+		"abils" : "Electric / Steel"
 	},
 	{
 		"name" : "Mimikyu",
@@ -26517,7 +26516,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Amorphous",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Fairy",
+		"abils" : "Ghost / Fairy"
 	},
 	{
 		"name" : "Bruxish",
@@ -26547,7 +26546,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Water 2",
 		"typing" : "#N/A",
-		"abils" : "Water / Psychic",
+		"abils" : "Water / Psychic"
 	},
 	{
 		"name" : "Drampa",
@@ -26577,7 +26576,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Monster",
 		"typing" : "Dragon",
-		"abils" : "Normal / Dragon",
+		"abils" : "Normal / Dragon"
 	},
 	{
 		"name" : "Dhelmise",
@@ -26607,7 +26606,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Mineral",
 		"typing" : "#N/A",
-		"abils" : "Ghost / Grass",
+		"abils" : "Ghost / Grass"
 	},
 	{
 		"name" : "Jangmo-o",
@@ -26637,7 +26636,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Dragon",
 		"typing" : "#N/A",
-		"abils" : "Dragon",
+		"abils" : "Dragon"
 	},
 	{
 		"name" : "Hakamo-o",
@@ -26667,7 +26666,7 @@
 		"prevol" : "Jangmo-o",
 		"egg1" : "Dragon",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Fighting",
+		"abils" : "Dragon / Fighting"
 	},
 	{
 		"name" : "Kommo-o",
@@ -26697,7 +26696,7 @@
 		"prevol" : "Hakamo-o",
 		"egg1" : "Dragon",
 		"typing" : "#N/A",
-		"abils" : "Dragon / Fighting",
+		"abils" : "Dragon / Fighting"
 	},
 	{
 		"name" : "Tapu Koko",
@@ -26727,7 +26726,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Electric / Fairy",
+		"abils" : "Electric / Fairy"
 	},
 	{
 		"name" : "Tapu Lele",
@@ -26757,7 +26756,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Fairy",
+		"abils" : "Psychic / Fairy"
 	},
 	{
 		"name" : "Tapu Bulu",
@@ -26787,7 +26786,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Grass / Fairy",
+		"abils" : "Grass / Fairy"
 	},
 	{
 		"name" : "Tapu Fini",
@@ -26817,7 +26816,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Water / Fairy",
+		"abils" : "Water / Fairy"
 	},
 	{
 		"name" : "Cosmog",
@@ -26847,7 +26846,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Cosmoem",
@@ -26877,7 +26876,7 @@
 		"prevol" : "Cosmog",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Solgaleo",
@@ -26907,7 +26906,7 @@
 		"prevol" : "Cosmoem",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Steel",
+		"abils" : "Psychic / Steel"
 	},
 	{
 		"name" : "Lunala",
@@ -26937,7 +26936,7 @@
 		"prevol" : "Cosmoem",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic / Ghost",
+		"abils" : "Psychic / Ghost"
 	},
 	{
 		"name" : "Nihilego",
@@ -26967,7 +26966,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Rock / Poison",
+		"abils" : "Rock / Poison"
 	},
 	{
 		"name" : "Buzzwole",
@@ -26997,7 +26996,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Bug / Fighting",
+		"abils" : "Bug / Fighting"
 	},
 	{
 		"name" : "Pheromosa",
@@ -27027,7 +27026,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Bug / Fighting",
+		"abils" : "Bug / Fighting"
 	},
 	{
 		"name" : "Xurkitree",
@@ -27057,7 +27056,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Electric",
+		"abils" : "Electric"
 	},
 	{
 		"name" : "Celesteela",
@@ -27087,7 +27086,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Steel / Flying",
+		"abils" : "Steel / Flying"
 	},
 	{
 		"name" : "Kartana",
@@ -27117,7 +27116,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Grass / Steel",
+		"abils" : "Grass / Steel"
 	},
 	{
 		"name" : "Guzzlord",
@@ -27147,7 +27146,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Dark / Dragon",
+		"abils" : "Dark / Dragon"
 	},
 	{
 		"name" : "Necrozma",
@@ -27177,7 +27176,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Psychic",
+		"abils" : "Psychic"
 	},
 	{
 		"name" : "Magearna",
@@ -27207,7 +27206,7 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Steel / Fairy",
+		"abils" : "Steel / Fairy"
 	},
 	{
 		"name" : "Marshadow",
@@ -27237,6 +27236,6 @@
 		"prevol" : "#N/A",
 		"egg1" : "Undiscovered",
 		"typing" : "#N/A",
-		"abils" : "Fighting / Ghost",
+		"abils" : "Fighting / Ghost"
 	}
 ]
